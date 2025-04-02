@@ -11,7 +11,7 @@ chat_collection = db['chat_logs']  # 'chat_logs' 컬렉션 사용
 def save_chat_log(user_id, chat_id, user_message, bot_response):
     """
     사용자의 메시지와 챗봇의 응답을 채팅 로그에 저장
-    """
+    """ 
     # 현재 시간
     timestamp = datetime.now().isoformat()
 
