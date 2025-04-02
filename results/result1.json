@@ -1,9 +1,9 @@
 {
   "persona": "persona_20s_friend",
-  "cbt_strategy": "긍정 기대일 경우 목표 설정, 부정 기대일 경우 걱정 관리 기법 적용 ",
+  "cbt_strategy": "감정 강화: 즐거운 경험을 음미하고 감사 일기를 작성하여 긍정 정서를 증진합니다. ",
   "cbt_technique": "",
   "cognitive_distortion": "없음",
-  "emotion": "기대",
+  "emotion": "기쁨",
   "history": [
     {
       "role": "counselor",
@@ -15,43 +15,107 @@
     },
     {
       "role": "counselor",
-      "message": "안녕 로라! 이렇게 이야기해줘서 고마워. 요즘 많이 벅차고 슬픈 기분이 드는 건 정말 힘든 일이야. 그런 감정이 드는 건 자연스러운 거니까, 너의 기분을 이해해.\n\n이런 때일수록 작은 활동들이 도움이 될 수 있어. 우리가 함께 의미 있는 활동을 찾아보면 좋겠어! 혹시 요즘 하고 싶었던 일이 있었거나, 예전부터 해보고 싶었던 취미 같은 게 있을까? 작은 것이라도 좋으니, 네가 즐길 수 있는 일을 생각해보자!"
+      "message": "안녕하세요, 로라! 이렇게 이야기 나눌 수 있어서 정말 기쁘고, 네가 느끼고 있는 감정에 대해 정말 공감해. 요즘 벅차게 느껴진다니, 그만큼 많은 걸 겪고 있다는 거잖아. 슬픔이 느껴질 때는 정말 힘든 것 같아. \n\n그런 기분을 조금 덜어줄 수 있는 방법을 찾아볼까? 우리가 의미 있는 활동을 함께 계획해보면 좋을 것 같아. 만약 러닝이 어렵다면, 다른 소소한 것들부터 시작해보는 건 어때? 예를 들어, 짧은 산책이나 좋아하는 음악을 듣는 것도 좋고, 아니면 새로운 취미를 시도해보는 것도 좋을 것 같아. 어떤 게 가장 끌리니? 😊"
     },
     {
       "role": "client",
-      "message": "Client: 사실 요즘 그림 그리는 것이 정말 하고 싶었어요. 어렸을 때 즐겨 했던 일이었거든요. 하지만 시간이 없어서 항상 미루기만 했어요. 그런 활동이 저에게 도움이 될까요?"
+      "message": "Client: 제가 좋아하는 음악을 듣는 게 좋을 것 같아요. 음악이 저에게 위로가 되기도 하고, 기분이 나아질 때가 많거든요. 하지만 가끔은 이런 작은 것들이 저를 더 외롭게 만들기도 해서 걱정이 되네요. 그럴 땐 어떻게 해야 할까요?"
     },
     {
       "role": "counselor",
-      "message": "로라, 정말 멋진 취미를 기억해냈네! 그림 그리기는 정말 좋은 방법이야. 예전에는 즐기던 일이었으니, 그 감정을 다시 느껴보는 것도 좋을 것 같아. 그리고 그림을 그리는 건 스트레스를 해소하는 데도 큰 도움이 될 수 있어!\n\n시간이 없어서 미루고 있었다는 것도 이해해. 우리 모두 바쁜 일상 속에서 자신을 돌보는 걸 잊어버릴 때가 많잖아. 그래서 작은 목표를 세우는 게 중요해! 혹시 이 주말에 10분 정도 그림을 그려보는 건 어때? 너무 큰 부담 없이 시작할 수 있을 것 같아. 그렇게 작은 목표를 세우면, 그 과정에서 즐거움을 느낄 수 있을 거야.\n\n어떻게 생각해? 너의 기분도 조금 더 나아질 것 같아!"
+      "message": "로라, 네가 느끼는 그 외로움에 정말 공감해. 음악이 위로가 될 때도 있지만, 때때로 혼자서 듣는 건 더욱 외롭게 만들 수 있죠. 그런 기분이 드는 건 정말 자연스러운 일이에요. \n\n음악을 통해 기분이 나아질 수 있다는 건 정말 좋은 출발점이야! 그럼 다음에 음악을 들을 때, 친구나 가족과 함께 듣는 건 어떤가요? 아니면, 음악을 듣는 동안 소소한 활동을 추가해보는 건 어떨까요? 예를 들어, 좋아하는 음식을 만들거나, 그림을 그리면서 듣는 것도 좋을 것 같아요. 그렇게 하면 외로움이 조금 덜해질 수 있을 것 같아요. 😊\n\n어떤 방법이 너에게 가장 끌리니? 아니면 다른 아이디어가 있다면 나눠줘도 좋아!"
     },
     {
       "role": "client",
-      "message": "Client: 그 제안이 정말 좋아요. 주말에 10분이라면 부담 없이 시도해볼 수 있을 것 같아요. 다시 그림을 그리는 걸 통해서 예전의 즐거움을 느껴보는 것도 기대돼요. 이렇게 작은 목표를 세우는 게 제 기분을 바꿔줄 수 있을 것 같아요."
+      "message": "Client: 저는 친구와 함께 음악을 듣는 아이디어가 좋을 것 같아요. 친구와 함께하면 더 즐거울 것 같고, 외로움도 덜 느낄 수 있을 것 같아요. 하지만 가끔은 친구에게 제 기분을 털어놓는 게 두렵기도 해요. 그럴 땐 어떻게 해야 할까요?"
     },
     {
       "role": "counselor",
-      "message": "로라, 정말 기쁘다! 이렇게 작은 목표를 세우는 게 너에게 긍정적인 변화를 가져다줄 수 있다는 걸 느끼고 있다니, 나도 너무 기대돼! 그림을 그리는 동안 예전의 즐거움을 느끼고, 그 시간을 온전히 나 자신에게 주는 것만으로도 큰 의미가 있을 거야.\n\n그리고 주말에 그림을 그리면서 네가 어떤 기분을 느끼는지, 그 경험을 공유해줄 수 있을까? 그 과정을 통해 너의 감정이나 생각이 어떻게 바뀌는지를 알아보는 것도 좋을 것 같아. 이렇게 조금씩 나아가면서 너의 부정적인 생각을 다루는 데도 도움이 될 거야.\n\n어때? 주말에 그림 그린 후에 다시 이야기해보자! 네가 어떤 느낌인지 정말 궁금해. 😊"
+      "message": "로라, 정말 기쁘게도 친구와 함께 음악을 듣는 아이디어를 좋아해줬구나! 😊 친구와의 시간을 통해 외로움이 덜할 것 같다는 생각은 정말 멋져. 그런데 친구에게 내 기분을 털어놓는 게 두렵다고 느끼는 것도 너무 이해가 가. 그런 감정은 정말 자연스러운 거야.\n\n그럼, 친구에게 내 기분을 이야기할 때 조금 더 편하게 느낄 수 있는 방법을 생각해볼까? 예를 들어, 그냥 \"요즘 좀 힘들어\"라고 간단하게 시작해보는 건 어떨까? 그런 간단한 말로 시작하면, 친구도 네가 말하고 싶은 걸 편하게 알아차릴 수 있을 것 같아. \n\n또는, 어떤 기분인지 적어보는 것도 좋은 방법이야. 그런 방법으로 내 감정을 정리하고 나면, 친구에게 이야기할 때 좀 더 구체적으로 말할 수 있을 것 같아. \n\n어떻게 생각해? 이런 방법이 도움이 될 것 같아? 아니면 너만의 다른 방법이 있다면 나눠줘도 좋아! 😊"
     },
     {
       "role": "client",
-      "message": "Client: 주말에 그림을 그린 후에 다시 이야기하는 게 좋을 것 같아요. 그 경험을 통해 제 감정이 어떻게 변화하는지 알아보는 게 기대돼요. 사실, 이렇게 소소한 목표가 제 마음을 편안하게 해줄 것 같아요. 이번 주말이 기다려져요!"
+      "message": "Client: 친구에게 간단하게 시작해보는 게 좋을 것 같아요. 그렇게 하면 부담도 덜할 것 같고, 제 기분을 정확히 표현할 수 있을 것 같거든요. 하지만 아직도 그럴 때마다 불안한 마음이 드는 것이 사실이에요. 이 불안감을 어떻게 다루면 좋을까요?"
     },
     {
       "role": "counselor",
-      "message": "로라, 정말 기쁘다! 이렇게 작은 목표가 너에게 편안함을 줄 수 있을 거라고 믿는 마음이 나도 너무 좋아. 주말이 다가오면서 기대감이 커지는 것 같아! 😊\n\n너가 그림을 그리는 동안 어떤 기분이 드는지, 그 순간을 어떻게 느끼는지 정말 궁금해. 그 경험을 통해서 네 안의 부정적인 생각들이 어떻게 변할 수 있을지 기대돼. 그리고 혹시 그 그림을 그리면서 떠오르는 생각이나 감정이 있다면, 그걸 적어보는 것도 좋을 것 같아. 작은 일기처럼 말이야. \n\n그렇게 하면 나중에 다시 이야기할 때 도움이 될 거야! 언제나 너의 마음을 존중하고 이해해주고 싶으니까. 주말에 그림 그리는 시간, 정말 잘 되길 바랄게! 🎨✨\n\n주말 후에 다시 이야기하자! 그때까지 좋은 일 많이 생기길 바라!"
+      "message": "로라, 친구에게 기분을 간단하게 시작해보겠다는 결정을 내린 건 정말 용기 있는 선택이야! 😊 그런 마음을 잘 이해해. 불안한 마음이 드는 건 매우 자연스러운 일이니까, 너의 감정을 존중해줘야 해.\n\n그럼 그 불안감을 조금 줄일 수 있는 방법을 하나 생각해볼까요? 먼저, 그 불안한 순간에 느끼는 감정을 잠시 숨겨두고, 조금 더 편안한 상태로 만들어주는 이완 훈련을 시도해보는 게 좋을 것 같아. 예를 들어, 깊게 숨을 쉬는 걸 통해 긴장을 풀어보는 것도 좋아! \n\n간단하게 이렇게 해보는 건 어때? \n\n1. 깊게 숨을 들이마시고, \n2. 5초 정도 참았다가, \n3. 천천히 내쉬는 거야. \n\n이런 식으로 몇 번 반복해보면, 조금 더 마음이 편해질 수 있어. 그리고 그 기분을 가지고 친구에게 이야기할 준비가 될 때까지 기다려보는 거야. \n\n이런 방법이 어때? 조금 더 마음이 가벼워질 수 있을 것 같아? 😊"
     },
     {
       "role": "client",
-      "message": "Client: 주말 후에 다시 이야기하는 게 정말 기대돼요. 제가 그림을 그리는 동안 어떤 감정이 들지 궁금하고, 그 경험을 통해 제 부정적인 생각들이 어떻게 변화할 수 있을지 생각하면 설레요. 이런 작은 변화가 제 일상에 긍정적인 영향을 줄 수 있을 것 같아요. 감사합니다! "
+      "message": "Client: Client: 이완 훈련을 시도해보는 게 좋을 것 같아요. 깊게 숨을 쉬는 게 정말 도움이 될 것 같고, 그걸 통해 편안한 상태로 친구에게 이야기할 수 있을 것 같아요. 하지만 가끔은 여전히 제 감정이 너무 복잡하게 얽혀서 어떻게 시작해야 할지 막막할 때가 있어요. 그럴 때는 어떻게 해야 할까요?"
+    },
+    {
+      "role": "counselor",
+      "message": "로라, 이완 훈련을 시도해보겠다는 결정을 내린 건 정말 훌륭한 선택이야! 😊 그런 마음을 조금 더 편하게 해줄 수 있을 거야. 그리고 감정이 복잡하게 얽혀서 어떻게 시작해야 할지 막막할 때가 있다는 것도 정말 이해해. 그런 기분이 드는 건 누구에게나 있을 수 있는 일이니까, 너 혼자만 느끼는 게 아니야.\n\n감정을 정리하는 데 도움이 될 수 있는 방법을 하나 제안해볼게! 그게 바로 '감정 일기'를 써보는 거야. 하루에 한 번, 그날 느낀 감정이나 생각을 간단하게 적어보는 거지. 예를 들어, “오늘은 친구와 대화할 때 불안했어”라고 적어보는 거야. \n\n이렇게 적어보면 감정이 조금 더 명확해지고, 친구에게 이야기할 때 어떤 기분을 전달하고 싶은지 더 잘 알 수 있을 거야. 또, 시간이 지나면서 내 감정의 패턴도 볼 수 있어서, 나 자신을 이해하는 데도 도움이 될 수 있어.\n\n이 방법이 너에게 잘 맞을 것 같아? 😊 아니면 다른 아이디어가 있다면 나눠줘도 좋아!"
+    },
+    {
+      "role": "client",
+      "message": "Client: Client: 감정 일기를 써보는 게 정말 좋은 아이디어인 것 같아요. 그렇게 하면 제 감정을 조금 더 명확하게 이해할 수 있을 것 같고, 친구에게 이야기할 때도 도움이 될 것 같아요. 하지만 가끔 제 감정이 너무 복잡해서 어떤 걸 적어야 할지 모르겠어요. 그런 경우에는 어떻게 해야 할까요?"
+    },
+    {
+      "role": "counselor",
+      "message": "로라, 감정 일기를 써보겠다는 결정을 내린 것에 대해 정말 기쁘고 자랑스러워! 😊 그런 방식으로 감정을 정리하면 더 명확해질 수 있을 거야. 하지만 어떤 감정을 적어야 할지 막막할 때가 있다는 것도 충분히 이해해. 그런 기분은 누구나 느낄 수 있어.\n\n그럴 때는 아주 간단하게 시작해보는 게 좋을 것 같아. 예를 들어, 그날 하루 동안 느낀 감정 중 한 가지를 골라서 적어보는 건 어때? “오늘은 기분이 좋았다” 또는 “오늘은 조금 우울했다”라고 간단하게 적는 거야. 그리고 그 감정에 대해 왜 그런 기분이 들었는지도 한두 문장으로 적어보면 좋을 것 같아. \n\n또는, 그날의 분위기나 상황을 적어보는 것도 도움이 될 수 있어. “오늘은 친구랑 커피를 마셨고, 그때 기분이 좋았어” 이런 식으로 말이야. 이렇게 간단하게라도 적다 보면, 나중에 읽었을 때 어떤 감정이었는지 더 잘 이해할 수 있을 거야. \n\n이런 방식이 도움이 될 것 같아? 또는 더 구체적인 방법이 필요하면 언제든지 말해줘! 😊"
+    },
+    {
+      "role": "client",
+      "message": "Client: Client: 간단하게 시작해보는 게 좋겠다는 생각이 드네요. 하루에 한 가지 감정을 적는 게 부담이 덜할 것 같고, 그걸 통해 감정을 더 잘 이해할 수 있을 것 같아요. 그런데 가끔은 일기 쓰는 것조차 귀찮게 느껴질 때가 있어서, 그런 날엔 어떻게 해야 할까요?"
+    },
+    {
+      "role": "counselor",
+      "message": "로라, 간단하게 시작해보겠다는 결정을 내린 건 정말 훌륭해! 😊 그렇게 하면 부담 없이 감정을 표현할 수 있을 거야. 그런데 일기 쓰는 게 귀찮게 느껴질 때가 있다는 것도 충분히 이해해. 그런 날은 누구에게나 오니까 걱정하지 마!\n\n그럴 땐 아예 일기를 쓰는 대신, 감정을 간단하게 메모하는 방법도 있어. 예를 들어, 스마트폰의 메모장에 간단하게 “오늘은 그냥 피곤했어”라고 적어보는 거야. 이렇게 하면 일기 쓰는 것처럼 복잡하게 생각하지 않아도 되고, 짧게 한 문장이라도 괜찮아. \n\n또는, 그날 느낀 감정을 친구에게 문자로 보내보는 것도 좋은 방법이야. \"오늘 좀 우울해\"라든지, \"오늘은 기분이 좋았어!\" 같은 간단한 메시지를 보내면, 나누는 것 자체가 도움이 될 수 있어. \n\n이런 방법이 너에게 잘 맞을 것 같아? 또는 다른 아이디어가 있다면 언제든지 이야기해 줘! 😊"
+    },
+    {
+      "role": "client",
+      "message": "Client: Client: 그런 간단한 메모 방법이 좋을 것 같아요. 일기 쓰는 건 부담스러울 때가 많으니까, 이렇게 짧게라도 감정을 기록할 수 있으면 좋겠어요. 친구에게도 기분을 간단히 이야기하는 게 부담이 덜할 것 같고요. 하지만 가끔은 제가 느끼는 감정에 대해 스스로도 잘 모르겠을 때가 있어요. 그런 경우에는 어떻게 해야 할까요?"
+    },
+    {
+      "role": "counselor",
+      "message": "로라, 간단한 메모 방식이 좋다고 생각해줘서 정말 기뻐! 😊 그렇게 부담 없이 감정을 기록하는 게 큰 도움이 될 거야. 그리고 가끔 자신의 감정을 잘 모르겠는 경우도 있다는 걸 이해해. 그런 상황은 정말 흔한 일이니까 걱정할 필요 없어.\n\n어떤 감정을 느끼고 있는지 모를 때는, 감정을 명확히 하기 위해 몇 가지 질문을 스스로에게 해보는 것도 도움이 될 수 있어. 예를 들어, \"오늘 어떤 상황에서 기분이 좋았던가?\" 또는 \"어떤 순간에 좀 불안했을까?\" 같은 질문이야. 이렇게 스스로에게 질문을 던져보면, 감정을 조금 더 명확하게 파악할 수 있을 거야. \n\n또는, 그날의 기분을 색깔이나 날씨에 비유해보는 것도 재미있고 도움이 될 수 있어. \"오늘은 흐린 날 같았어\" 또는 \"내 기분은 밝은 노란색이야!\" 이렇게 비유를 통해 감정을 표현해보면, 더 잘 느낄 수 있을 거야.\n\n이 방법이 너에게 도움이 될 것 같아? 아니면 다른 아이디어가 있다면 언제든지 나눠줘! 😊"
+    },
+    {
+      "role": "client",
+      "message": "Client: Client: 이렇게 스스로에게 질문을 던져보는 방법이 흥미로운 것 같아요. 상황에 따라 느끼는 감정을 조금 더 명확히 알 수 있을 것 같고, 색깔로 비유하는 것도 재미있을 것 같아요. 하지만 가끔은 감정을 정리하는 것 자체가 너무 힘들게 느껴질 때가 있어요. 그런 경우에는 어떻게 해야 할까요?"
+    },
+    {
+      "role": "counselor",
+      "message": "로라, 네가 감정을 정리하는 게 힘들게 느껴질 때가 있다는 말에 정말 공감해. 그런 감정은 누구에게나 있을 수 있으니까, 너 혼자가 아니라는 걸 기억해줘. 😊 \n\n그럴 때는 일단 잠시 쉬어가는 것도 좋은 방법이야. 감정을 정리하는 게 부담스러울 땐, 그냥 아무것도 하지 않고 느끼는 감정을 그대로 두는 것도 괜찮아. 그 감정을 조금 관찰해보는 거지. “지금 나는 어떤 기분이지?”라고 생각해보는 거야. \n\n또, 그럴 때는 누군가와 대화하는 것도 도움이 될 수 있어. 친구에게 그냥 “요즘 감정이 복잡해”라고 말해보는 것도 좋고, 아니면 간단하게 “오늘은 기분이 별로야”라고 해도 좋고. 그런 식으로 나누는 것만으로도 감정이 조금 덜 부담스럽게 느껴질 수 있어.\n\n이렇게 간단하게 시작해보는 게 도움이 될 것 같아? 아니면 다른 방법이 필요하면 언제든지 말해줘! 😊"
+    },
+    {
+      "role": "client",
+      "message": "Client: Client: 그런 방법들이 정말 도움이 될 것 같아요. 감정을 잠시 관찰하는 것도 괜찮고, 친구에게 간단하게 이야기하는 것도 부담이 덜할 것 같아요. 하지만 가끔은 그 감정을 누군가에게 표현하는 것조차 힘들게 느껴지는 날도 있는 것 같아요. 그런 날에는 어떻게 대처하면 좋을까요?"
+    },
+    {
+      "role": "counselor",
+      "message": "로라, 네가 그렇게 느끼는 것도 정말 이해해. 감정을 누군가에게 표현하는 게 힘들게 느껴지는 날이 있다는 건 누구나 경험하는 일이니까, 그런 기분을 느끼는 건 정말 자연스러운 거야. 😊\n\n그럴 때는 우선 스스로에게 조금 더 친절하게 대해주는 게 중요해. 감정을 표현하는 게 어렵다면, 그날은 그냥 감정을 느끼고 있는 것 자체를 인정해주는 거야. “오늘은 그냥 힘든 날이구나”라고 스스로에게 말해보는 것도 좋고. 그런 식으로 자신에게 공감해주면, 조금 더 편안해질 수 있어.\n\n그리고 만약 그 감정을 표현하고 싶지만 어렵다면, 느끼는 감정을 글로 적어보는 것도 한 방법이야. “오늘은 기분이 별로다”라든지, “왜 이렇게 힘든지 모르겠다”라는 식으로 간단하게 적어보는 거지. 이렇게 글로 써보면, 마음의 부담이 조금 줄어들 수 있어.\n\n이런 방법이 도움이 될 것 같아? 또는 다른 방식으로 이야기해보고 싶은 게 있다면 언제든지 나눠줘! 😊"
+    },
+    {
+      "role": "client",
+      "message": "Client: Client: 감정을 인정해주는 게 중요하다는 말이 정말 와닿네요. 그렇게 스스로에게 공감해주면 조금 더 편안해질 수 있을 것 같아요. 그리고 글로 적는 것도 좋은 방법인 것 같고요. 하지만 가끔은 그 감정을 그대로 두는 게 힘들어서 더 괴로울 때도 있어요. 그럴 땐 어떻게 대처하면 좋을까요?"
+    },
+    {
+      "role": "counselor",
+      "message": "로라, 네가 느끼는 감정의 무게를 정말 잘 이해해. 그렇게 감정을 그대로 두는 게 힘들어서 괴로울 때가 있다는 건 정말 힘든 일이야. 그런 기분을 느끼는 건 자연스러운 일이니까, 너 자신을 너무 책망하지 않도록 해줘. 😊\n\n그럴 땐, 감정을 조금 더 관리할 수 있는 방법을 함께 생각해보면 좋을 것 같아! 우선, 그 감정을 느끼는 순간에 잠깐 시간을 내서 자신에게 다음과 같은 질문을 해보는 건 어때? \"이 감정이 지금 나에게 어떤 메시지를 전달하고 있을까?\" 또는 \"이 감정이 생긴 이유는 무엇일까?\" 이렇게 질문을 던지면, 감정을 조금 더 이해하는 데 도움이 될 수 있어.\n\n그리고 만약 그 감정이 너무 강하게 느껴진다면, 그 감정을 잠시 내려놓고 다른 소소한 활동에 집중해보는 것도 좋은 방법이야. 예를 들어, 간단한 스트레칭이나 차 한 잔 마시기 같은 것들이야. 그렇게 잠시 다른 것에 집중하다 보면, 감정이 조금 가벼워질 수 있어.\n\n이런 방법이 도움이 될 것 같아? 아니면 더 이야기하고 싶은 게 있다면 언제든지 말해줘! 😊"
+    },
+    {
+      "role": "client",
+      "message": "Client: Client: 제가 감정을 이해하고 관리하는 방법을 찾으려는 노력이 필요하다는 걸 느끼고 있어요. 그리고 감정이 너무 강할 때는 잠시 다른 활동에 집중해보는 것도 좋은 방법인 것 같아요. 하지만 가끔은 제 감정이 너무 억눌려서 더 이상 견디기 힘들 때가 있어요. 그런 경우에는 어떻게 해야 할까요?"
+    },
+    {
+      "role": "counselor",
+      "message": "로라, 네가 이렇게 솔직하게 감정을 나눠줘서 정말 고마워. 억눌린 감정이 너무 힘들게 느껴질 수 있다는 걸 정말 잘 알아. 그런 기분은 정말 어려운 일이니까, 너의 감정을 인정해 주는 것이 중요해. 😊\n\n그럴 땐, 감정이 너무 강하게 느껴질 때 잠시 그 감정을 밖으로 표현해보는 것도 좋은 방법이야. 예를 들어, 감정을 글로 적어보거나, 소리 내어 이야기해보는 것처럼. 그런 방식으로 감정을 표현하면 마음이 조금 가벼워질 수 있어. 그래서 오늘은 감정을 표현하는 방법을 찾아볼까 해. \n\n먼저, 일단 그 감정을 적어보는 건 어때? 어떤 감정이 느껴지는지, 그 감정이 왜 생겼는지 적어보는 거야. 그 감정이 억눌려 있으면, 그걸 글로 표현하는 것만으로도 큰 도움이 될 수 있어. \n\n그리고 만약 그렇게 하는 게 어렵다면, 간단하게 그 감정을 그려보는 것도 좋고, 좋아하는 음악을 틀어놓고 그 감정에 대해 생각해보는 것도 좋은 방법이야. 이렇게 소소한 방법들로 감정을 조금씩 풀어볼 수 있겠지?\n\n이 방법이 너에게 도움이 될 것 같아? 아니면 더 이야기하고 싶은 게 있다면 언제든지 나눠줘! 😊"
+    },
+    {
+      "role": "client",
+      "message": "Client: Client: 감정을 표현하는 방법을 찾아보는 게 중요한 것 같아요. 글로 적거나 그림을 그리는 것도 좋은 방법인 것 같고, 음악을 통해 감정을 풀어보는 것도 매력적인 방법이에요. 이렇게 여러 가지 방법을 시도해보면, 억눌린 감정이 조금씩 풀릴 수 있을 것 같아요. 사실, 이렇게 감정에 대해 이야기하면서 제 마음이 한결 가벼워진 느낌이에요. 이제는 제 감정을 조금 더 잘 이해하고 다룰 수 있을 것 같은 기분이 들어요. 그래서 더 이상 상담이 필요하지 않을 것 같아요. 감사합니다! "
     }
   ],
   "evaluation": {
-    "general_1": "4, The therapist demonstrated a good ability to understand the client's feelings and concerns, acknowledging the client's stress and sadness effectively. The therapist reflected on the client's desire to engage in art and connected it to potential emotional benefits, indicating a clear grasp of the client's internal reality. However, there were moments where the therapist could have deepened the exploration of the client's feelings or provided more nuanced responses to subtle cues, thus not fully reaching the highest level of understanding.",
-    "general_2": "6, The therapist demonstrated a thorough understanding of the client's internal reality and effectively communicated this understanding through both verbal affirmations and empathetic responses. The therapist not only reflected the client's feelings but also engaged in an encouraging dialogue that fostered a positive and therapeutic relationship. The use of specific suggestions, such as setting small goals, and the invitation for the client to share their feelings post-activity, showed a high level of empathy and support, indicating excellent listening and empathic skills.",
-    "general_3": "6, The therapist demonstrated a thorough understanding of the client's feelings and internal reality, effectively reflecting the client's emotions and encouraging the exploration of enjoyable activities. The therapist used empathetic language, validated the client's feelings, and supported goal-setting in a collaborative manner. The consistent positive reinforcement and suggestions for small, manageable goals showed excellent listening and empathic skills.",
-    "cbt_1": "6, The therapist effectively facilitated guided discovery throughout the session by encouraging the client to reflect on their feelings and experiences related to art. The therapist's questioning was skillful and supportive, helping the client explore past interests and set small, manageable goals without imposing their own views. The balance between questioning and supportive feedback was excellent, leading the client to draw their own conclusions and insights about their emotional state and the potential benefits of engaging in art.",
-    "cbt_2": "4, The therapist primarily guided the client through supportive questioning and facilitated the exploration of feelings and activities that could help the client, such as drawing. However, while the therapist encouraged the client to consider small goals, there was a slight reliance on persuasive support rather than fully utilizing guided discovery techniques. The session was positive but did not reach the level of exceptional exploration and insight that would merit a higher score.",
-    "cbt_3": "6, The therapist effectively utilized guided discovery throughout the session, encouraging the client to explore their feelings and consider positive actions, such as drawing. The use of open-ended questions and affirmations facilitated the client's engagement and self-reflection. The therapist maintained a supportive environment, balancing skillful questioning with encouragement, which allowed the client to draw their own conclusions about the benefits of setting small goals. Overall, the therapist demonstrated an excellent approach in helping the client navigate their emotions and thoughts."
+    "general_1": "4, The therapist generally seemed to grasp the patient’s “internal reality” as reflected by both what the patient explicitly said and what the patient communicated in more subtle ways. The therapist demonstrated a good ability to listen and empathize, effectively engaging with the client's feelings of overwhelm and loneliness, and providing appropriate suggestions and validations. However, while the therapist was supportive and reflective, there were moments where deeper exploration of the client’s emotions could have been beneficial. Overall, the therapist showcased a solid understanding of the client's concerns, which justifies a score of 4.",
+    "general_2": "6, The therapist demonstrated a thorough understanding of the client's internal experiences throughout the session. They consistently reflected the client's feelings, acknowledged their struggles, and provided empathetic responses. The therapist's use of appropriate verbal encouragement and suggestions conveyed a deep level of understanding and support, fostering a positive and therapeutic relationship. Their ability to listen and empathize was not only evident in their responses but also in the way they guided the client towards exploring their feelings and finding coping strategies. Overall, the therapist excelled in maintaining a positive and therapeutic relationship.",
+    "general_3": "6, The therapist demonstrated an excellent understanding of the client's internal reality throughout the session. They effectively reflected the client's feelings, empathized with their struggles, and provided thoughtful suggestions that aligned with the client's expressed concerns. The therapist's responses conveyed a deep level of sympathy and understanding, fostering an environment where the client felt comfortable exploring their emotions. The use of supportive language and encouragement for the client to express themselves further reinforced the therapist's strong listening and empathic skills.",
+    "cbt_1": "6, Therapist demonstrated a strong ability to facilitate guided discovery throughout the session. They consistently used open-ended questions and encouraged the client to explore their feelings and thoughts, helping them to draw their own conclusions. The therapist balanced questioning with supportive responses, allowing the client to reflect on their emotions and experiences effectively. The client's progression towards understanding and managing their feelings indicates the therapist's skillful approach in promoting self-reflection and insight.",
+    "cbt_2": "6, The therapist effectively facilitated guided discovery throughout the session by encouraging the client to explore their emotions and thoughts in a supportive manner. The therapist asked open-ended questions, provided alternative perspectives, and suggested practical strategies for the client to manage their feelings, allowing the client to draw their own conclusions. The balance between questioning and providing suggestions was excellent, fostering a safe environment for the client to express their thoughts and feelings.",
+    "cbt_3": "6, The therapist demonstrated exceptional skill in using guided discovery throughout the session. By asking thoughtful questions and encouraging the client to explore their feelings and thoughts, the therapist facilitated a process where the client could draw their own conclusions. The therapist maintained an excellent balance between questioning and providing supportive suggestions, allowing the client to feel empowered in their emotional exploration. The session effectively helped the client recognize and articulate their emotions, leading to a positive shift in their perspective."
   }
 }

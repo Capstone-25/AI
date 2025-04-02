@@ -4,3 +4,4 @@ venv/
 vector_store/
 conf.d/
 test_code/
+logs/

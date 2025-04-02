@@ -14,13 +14,14 @@ from agents.evaluator_agent import EvaluatorAgent
 from agents.sub_llm import SubLLMAgent
 from config import get_config, set_openai_api_key
 from cbt.cbt_mappings import emotion_strategies, cognitive_distortion_strategies
+from DB import save_chat_log  # DB.py에서 함수 import
 
 # API 키 설정
 set_openai_api_key()
 from pymongo import MongoClient
 
 # 연결 문자열 사용
-client = MongoClient("mongodb+srv://j2982477:"
+client = MongoClient("mongodb+srv://j2982477:EZ6t7LEsGEYmCiJK"
 "@mindAI.zgcb4ae.mongodb.net/?retryWrites=true&w=majority&appName=mindAI")
 
 # 'mindAI' 데이터베이스에 연결
@@ -116,13 +117,14 @@ class TherapySimulation:
                 emotion=emotion,
                 distortion=distortion
             )
-
-            # 5. 종료 조건 체크
+            # 5. 채팅 로그 저장
+            save_chat_log("user123", "chat123", client_msg, counselor_msg)  # 채팅 로그를 MongoDB에 저장
+            # 6. 종료 조건 체크
             if "[/END]" in client_msg:
                 self.history[-1]["message"] = client_msg.replace("[/END]", "")
                 break
 
-        # 6. 평가 수행
+        # 7. 평가 수행
         evaluation_result = self.evaluator_agent.evaluate_all(self.history)
 
         # 7. 결과 반환
