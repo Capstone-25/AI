@@ -1,3 +1,11 @@
+"""
+실행 코드
+python3 chat.py \
+  --input_file data/example1.json \
+  --output_file results/result1.json \
+  --persona_type persona_20s_friend
+"""
+
 import json
 from pathlib import Path
 from agents.client_agent import ClientAgent
@@ -9,7 +17,14 @@ from cbt.cbt_mappings import emotion_strategies, cognitive_distortion_strategies
 
 # API 키 설정
 set_openai_api_key()
+from pymongo import MongoClient
 
+# 연결 문자열 사용
+client = MongoClient("mongodb+srv://j2982477:"
+"@mindAI.zgcb4ae.mongodb.net/?retryWrites=true&w=majority&appName=mindAI")
+
+# 'mindAI' 데이터베이스에 연결
+db = client['mindAI']
 class TherapySimulation:
     def __init__(self, example: dict, persona_type: str, max_turns: int = 20):
         self.example = example
