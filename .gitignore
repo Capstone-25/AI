@@ -6,3 +6,9 @@ conf.d/
 test_code/
 vector_store.py
 logs/
+*.pyc
+*.wav
+*.mp3
+.env
+input.wav
+tts_*.mp3

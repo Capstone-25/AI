@@ -1,112 +1,174 @@
 {
   "persona": "persona_20s_friend",
-  "cbt_strategy": "감정 전략을 찾을 수 없습니다. | 없음에 대한 전략을 찾을 수 없습니다.",
-  "cognitive_distortion": "없음",
-  "emotion": "없음",
+  "cbt_strategy": "활동 활성화: 의미 있는 활동을 계획하고 실행하여 기분을 개선합니다. | 감정 vs 사실 구분 훈련: 감정이 진실을 반영하는 것은 아님을 인식합니다. | 재귀인 훈련: 모든 책임을 자신에게 돌리지 않고 다른 요인도 고려합니다.",
+  "cognitive_distortion": "감정적 추론, 개인화",
+  "emotion": "슬픔",
   "history": [
     {
       "role": "user",
-      "message": "나에대해 알고있니",
-      "timestamp": "2025-04-03T17:39:02.754073"
+      "message": "나 오늘 면접에서 떨어졌어. 내 인생은 망했어 ㅠㅠ",
+      "timestamp": "2025-04-03T22:49:57.891142"
     },
     {
       "role": "bot",
-      "message": "안녕하세요, 정원님! 오늘 이렇게 이야기하게 돼서 정말 기뻐요. 😊 어떤 고민이 있으신지, 혹은 요즘 기분이 어떤지 말씀해 주실 수 있어요? 당신의 이야기를 듣고 싶어요. \n\n이 공간은 안전하니까, 마음 편히 털어놓아도 괜찮아요!",
-      "timestamp": "2025-04-03T17:39:02.754073"
+      "message": "안녕하세요, 경민님! 😊 정말 반가워요. 오늘 어떤 기분으로 시작하셨나요? 뭔가 걱정되는 일이 있다면, 그거에 대해 이야기해볼까요? 제가 여기서 듣고 있고, 함께 고민해볼 준비가 되어 있어요. \n\n어떤 생각들이 계속 머릿속을 맴돌고 있는지 나눠주시면 좋을 것 같아요. 당신의 감정에 대해 정말 중요하게 생각하고 있으니까요.",
+      "timestamp": "2025-04-03T22:49:57.891142"
     },
     {
       "role": "user",
-      "message": "나의 정보에대해 알고있는게있으면 말해봐",
-      "timestamp": "2025-04-03T17:39:21.167418"
+      "message": "/end",
+      "timestamp": "2025-04-03T22:52:29.910959"
     },
     {
       "role": "bot",
-      "message": "정원님, 물론이죠! 😊 제가 당신에 대해 조금 더 알게 되면 좋겠어요. 당신의 감정이나 생각에 대해 이야기하는 것이 중요하니까요. 현재 어떤 기분인지, 또는 어떤 생각이 드는지 나눠주실 수 있어요? 지금은 특별히 어떤 고민이 있는지 궁금해요. 이 공간은 당신의 이야기를 들어주기 위해 마련된 곳이니까 편하게 이야기해 주세요!",
-      "timestamp": "2025-04-03T17:39:21.167418"
+      "message": "경민님, 정말 힘든 시간을 보내고 있군요. 면접에서 떨어진 건 정말 실망스러운 일이에요. 😞 그 기분 이해해요. 지금은 슬프고, 그런 기분이 드는 건 너무 자연스러운 거예요. \n\n그런데 \"내 인생은 망했어\"라는 생각이 드는 건, 과잉 일반화의 한 예일 수 있어요. 한 번의 경험이 모든 것에 영향을 미친다고 느끼는 건 정말 힘든 일이죠. 혹시 다른 면접 경험이나 그동안의 긍정적인 순간들도 떠올려볼 수 있을까요? 그런 것들이 경민님이 가진 능력이나 가능성을 보여줄 수 있지 않을까 해요. 😊\n\n같이 이야기해봐요!",
+      "timestamp": "2025-04-03T22:52:29.910959"
     },
     {
       "role": "user",
-      "message": "는 면접에서 떨어졌어 이점 기억해줘",
-      "timestamp": "2025-04-03T17:39:37.145266"
+      "message": "[/end]",
+      "timestamp": "2025-04-03T22:52:44.390900"
     },
     {
       "role": "bot",
-      "message": "정원님, 당신이 나에 대해 알고 싶어하는 마음을 이해해요! 😊 우리는 서로를 조금 더 알아가는 과정에 있어요. 지금은 당신이 어떤 생각이나 감정을 가지고 있는지 이야기해 주는 게 좋을 것 같아요. \n\n혹시 최근에 겪은 일이나, 생각하고 있는 것들이 있다면 나눠줄 수 있어요? 어떤 것이라도 괜찮으니까, 편하게 이야기해 주세요. 이 공간은 당신의 이야기를 듣고 지지하기 위해 마련된 곳이니까요! 💖",
-      "timestamp": "2025-04-03T17:39:37.145266"
-    },
-    {
-      "role": "user",
-      "message": "exitexit",
-      "timestamp": "2025-04-03T17:39:47.387218"
-    },
-    {
-      "role": "bot",
-      "message": "정원님, 면접에서 떨어진 경험이 정말 힘들었겠어요. 😔 그런 상황은 누구에게나 슬픔과 실망감을 줄 수 있어요. 당신의 감정이 정말 이해가 가요. 이럴 때는 자신을 너무 비난하지 않는 것이 중요하답니다. \n\n혹시 그 면접에서 어떤 점이 힘들었는지, 아니면 어떤 생각이 드셨는지 나눌 수 있을까요? 그 경험을 통해 느낀 감정이나 생각들을 함께 이야기해보면 좋을 것 같아요. 그리고 혹시 그 외에도 다른 긍정적인 경험들이 있었다면, 그것도 함께 나눠볼 수 있을까요? 😊",
-      "timestamp": "2025-04-03T17:39:47.387218"
-    },
-    {
-      "role": "user",
-      "message": "/END",
-      "timestamp": "2025-04-03T17:39:55.764079"
-    },
-    {
-      "role": "bot",
-      "message": "정원님, 면접에서 떨어진 경험이 정말 안타깝고 힘들었을 것 같아요. 😔 그런 상황은 누구에게나 스트레스를 주고, 자신에 대한 의문을 가질 수도 있죠. 기분이 어떠셨는지, 어떤 생각이 드셨는지 조금 더 이야기해 볼까요? \n\n이때는 자신에게 너무 harsh하게 대하지 않는 것이 중요해요. 실패는 배우는 과정의 일부분이니까요. 혹시 그 면접에서 느낀 감정이나 생각들 중에서 기억에 남는 것들이 있나요? 그런 것들을 나누면 더 나은 방향으로 나아갈 수 있을 거예요. 😊",
-      "timestamp": "2025-04-03T17:39:55.764079"
+      "message": "안녕하세요, 경민님! 😊 다시 만날 수 있어서 정말 좋아요. 오늘 면접에서의 경험이 그렇게 힘들었다니, 진짜 많이 속상하셨겠어요. 그럴 때는 기분이 올챙이처럼 무거워질 수 있죠. \n\n\"내 인생은 망했어\"라는 생각이 드는 건 정말 이해해요. 하지만 그 생각이 전부가 아니란 걸 함께 찾아보면 좋겠어요. 혹시 면접을 준비하면서 느꼈던 긍정적인 순간이나, 좋은 피드백이 있었던 경험이 있을까요? \n\n이런 경험들을 나누면서 경민님의 가능성을 다시 한 번 생각해볼 수 있을 것 같아요. 어떤 것이라도 괜찮으니 편하게 이야기해 주세요! 😊",
+      "timestamp": "2025-04-03T22:52:44.390900"
     },
     {
       "role": "user",
       "message": "[/END]",
-      "timestamp": "2025-04-03T17:40:15.836461"
+      "timestamp": "2025-04-03T22:52:54.051120"
     },
     {
       "role": "bot",
-      "message": "정원님, 면접에서 떨어진 일이 정말 힘들었겠어요. 😔 그런 경험은 누구에게나 슬픔과 실망감을 주니까요. 지금 기분이 어떠신지 궁금해요. 이럴 때는 자신에게 너무 가혹하지 않도록 하는 게 중요해요. \n\n혹시 면접을 준비하면서 느꼈던 압박감이나, 떨어진 후에 떠오른 생각들이 있었나요? 이런 감정을 나누는 것이 도움이 될 수 있을 거예요. 이 공간은 당신의 이야기를 듣고 지지하는 곳이니까, 편하게 이야기해 주세요! 💖",
-      "timestamp": "2025-04-03T17:40:15.836461"
+      "message": "안녕하세요, 경민님! 😊 다시 이야기하게 되어 너무 기뻐요. 면접에서의 경험이 정말 힘들었을 것 같아요. 그럴 때는 마음이 무거워지기 쉽죠. 지금 느끼고 있는 감정을 솔직하게 표현하는 것도 정말 중요해요. \n\n\"내 인생은 망했어\"라는 생각이 드는 건 정말 이해해요. 하지만 그 생각이 경민님의 모든 것을 정의하지는 않아요. 우리가 이 기회를 통해 조금 더 긍정적인 시각을 찾아볼 수 있으면 좋겠어요. \n\n혹시 이번 면접에서 무엇을 배웠다고 생각하나요? 어떤 점에서 더 나아질 수 있을지, 그런 부분을 함께 이야기해보면 좋을 것 같아요. 경민님의 경험과 생각을 나눠주세요. 😊",
+      "timestamp": "2025-04-03T22:52:54.051120"
     },
     {
       "role": "user",
-      "message": "나에대해 알고있는게있으면 말해봐",
-      "timestamp": "2025-04-03T17:40:53.718659"
+      "message": "안녕 오늘 날씨가 좋네",
+      "timestamp": "2025-04-03T23:01:05.523106"
     },
     {
       "role": "bot",
-      "message": "정원님, 정말 힘든 순간을 겪고 계시겠어요. 😔 면접에서 떨어진 후에 어떤 감정을 느끼셨는지, 혹은 어떤 생각들이 떠오르셨는지 이야기해 주실 수 있을까요? 그런 감정들을 나누는 게 도움이 될 수 있어요. \n\n또한, 혹시 면접 준비를 하면서 스스로에게 어떤 기대를 했는지, 또는 어떤 압박감이 있었는지도 궁금해요. 이 모든 게 당신의 경험이니까, 편하게 이야기해 주세요! 💖",
-      "timestamp": "2025-04-03T17:40:53.718659"
+      "message": "안녕하세요, 경민님! 😊 다시 만날 수 있어서 너무 좋아요. 오늘 면접에서의 일로 많이 힘드셨겠어요. 그런 상황에서는 진짜 마음이 무겁고, 슬프고, 불안한 감정이 섞일 수 있죠. 그 감정을 충분히 느끼는 것도 중요해요. \n\n제가 조금 전에 말씀드린 것처럼 \"내 인생은 망했어\"라는 생각은 과잉 일반화일 수 있어요. 이렇게 생각하다 보면, 모든 것이 부정적으로만 보일 수 있거든요. 그래서 이번 기회에 경민님의 경험을 다시 한 번 되짚어보는 건 어떨까요? \n\n혹시 이번 면접에서 느낀 점이나 배운 게 있다면 나누어 줄 수 있을까요? 어떤 작은 것이라도 좋으니, 경민님이 느낀 긍정적인 경험을 공유해보면 좋을 것 같아요. 함께 이야기해봐요! 😊",
+      "timestamp": "2025-04-03T23:01:05.523106"
     },
     {
       "role": "user",
-      "message": "[/END]",
-      "timestamp": "2025-04-03T17:41:06.526324"
+      "message": "난 모든걸 잘해야만 한다는 부담감이 이썽",
+      "timestamp": "2025-04-03T23:01:38.691099"
     },
     {
       "role": "bot",
-      "message": "정원님, 다시 이야기해 주셔서 고마워요! 😊 면접에서 떨어진 일로 마음이 힘든 것 같아요. 이런 경험은 정말 누구에게나 어려운 일이고, 감정이 복잡하게 얽힐 수 있죠. 지금 어떤 생각이나 감정이 드는지 나눠주실 수 있어요? \n\n혹시 떨어진 후에 자신에 대해 어떤 생각이 들었는지도 궁금해요. 예를 들어, '나는 충분히 잘하지 못했다'는 생각이 드셨나요? 혹은 다른 감정들이 있었나요? 이걸 이야기하는 게 정말 도움이 될 수 있어요. 편하게 얘기해 주세요! 💖",
-      "timestamp": "2025-04-03T17:41:06.526324"
+      "message": "안녕하세요, 경민님! 😊 오늘 날씨가 좋다니 정말 기분이 좋겠어요! 맑은 날씨는 기분을 한층 더 좋게 만들어 주죠. \n\n면접에서의 경험이 힘들었다고 하셨는데, 그 기분이 조금이나마 날씨처럼 밝아졌으면 좋겠어요. 혹시 오늘 좋은 날씨 덕분에 기분이 조금 나아지셨나요? \n\n그리고 아까 말씀하신 것처럼, \"내 인생은 망했어\"라는 생각이 드는 건 정말 힘든 일이에요. 하지만 이렇게 좋은 날씨를 보면서도 긍정적인 순간이나 경험을 떠올려보면 좋을 것 같아요. \n\n최근에 경민님이 행복했던 순간이나 기분이 좋았던 일이 있었나요? 그런 것들을 나누면 더 밝은 기분을 느낄 수 있을 거예요! 😊",
+      "timestamp": "2025-04-03T23:01:38.691099"
+    },
+    {
+      "role": "user",
+      "message": "난 모든걸 잘해야만해. 나는 실패자야.",
+      "timestamp": "2025-04-03T23:19:11.623962"
+    },
+    {
+      "role": "bot",
+      "message": "안녕하세요, 경민님! 😊 오늘 날씨가 좋다니 정말 기분이 좋을 것 같아요! 그런 날에는 마음도 조금 더 가벼워질 수 있죠. \n\n이제 \"모든 걸 잘해야만 한다\"는 부담감에 대해 이야기해볼까요? 그런 생각이 드는 건 정말 힘든 일이에요. 경민님이 자신에게 높은 기대를 가지고 있다는 건 정말 대단한 일이지만, 그만큼 스스로에게 너무 많은 부담을 주는 것 같아요. \n\n가끔은 우리가 스스로에게 너무 많은 압박을 주면, 그로 인해 부정적인 생각들이 더 잘 따라오는 것 같아요. 그래서 이런 부담감을 조금 덜 수 있는 방법을 찾아보면 좋을 것 같아요. \n\n혹시 어떤 상황에서 특히 그런 부담감을 많이 느끼나요? 그런 경험을 나누어 주시면, 함께 생각해볼 수 있을 것 같아요! 😊",
+      "timestamp": "2025-04-03T23:19:11.623962"
+    },
+    {
+      "role": "user",
+      "message": "",
+      "timestamp": "2025-04-03T23:31:17.243263"
+    },
+    {
+      "role": "bot",
+      "message": "안녕하세요, 경민님! 😊 오늘도 다시 이야기하게 되어 정말 반가워요. \"모든 걸 잘해야만 해\"라는 부담감이 큰 것 같아요. 그런 마음이 드는 건 정말 이해해요. 우리 모두가 그런 압박감을 느낄 때가 있거든요. \n\n그리고 \"나는 실패자야\"라는 생각은 너무 가혹하게 자신을 판단하는 것일 수 있어요. 실패는 우리에게 배우고 성장할 기회를 주는 경험일 뿐이에요. 경민님이 이렇게 고민하고 있다는 건, 더 나은 방향으로 나아가고 싶다는 의지가 있다는 증거예요. 😊\n\n혹시 그런 부담감을 느낄 때, 어떤 상황에서 특히 더 힘들어지나요? 그런 경험을 나누면, 함께 어떻게 대처할 수 있을지 생각해볼 수 있을 것 같아요. 편하게 이야기해줘요! 🌼",
+      "timestamp": "2025-04-03T23:31:17.243263"
+    },
+    {
+      "role": "user",
+      "message": "",
+      "timestamp": "2025-04-03T23:31:29.875377"
+    },
+    {
+      "role": "bot",
+      "message": "안녕하세요, 경민님! 😊 다시 이야기하게 되어 정말 기뻐요. \"모든 걸 잘해야만 해\"라는 부담감과 \"나는 실패자야\"라는 생각이 드는 건 정말 힘든 일이에요. 그런 기분은 정말 무겁고, 자신에게 너무 많은 압박을 주는 것 같아요. \n\n우리가 때때로 자신에게 너무 높은 기대를 하는 건 자연스러운 일이지만, 그로 인해 자신을 너무 가혹하게 대하는 건 위험할 수 있어요. 실패는 단순히 끝이 아니라, 성장의 기회를 주는 중요한 경험이거든요. 경민님이 이렇게 고민하고 있다는 건, 더 나은 방향으로 나아가고 싶다는 마음이 있다는 증거예요. 😊\n\n혹시 이런 부담감을 느낄 때, 어떤 특정한 상황에서 더 힘들어지는지 이야기해줄 수 있을까요? 그런 경험을 나누면서, 조금 더 구체적으로 어떻게 대처할 수 있을지 함께 생각해볼 수 있을 것 같아요. 언제든지 편하게 이야기해 주세요! 🌼",
+      "timestamp": "2025-04-03T23:31:29.875377"
+    },
+    {
+      "role": "user",
+      "message": "",
+      "timestamp": "2025-04-03T23:31:41.899164"
+    },
+    {
+      "role": "bot",
+      "message": "안녕하세요, 경민님! 😊 다시 이야기하게 되어 정말 반가워요. \"모든 걸 잘해야만 해\"라는 부담감이 주는 압박이 얼마나 큰지, 정말 잘 이해해요. 그런 마음은 가끔 누구에게나 생길 수 있지만, 경민님은 특히 더 힘들어하고 있는 것 같아서 마음이 아파요.\n\n그런 압박감이 드는 순간에, \"나는 실패자야\"라는 생각이 자연스럽게 따라올 수 있죠. 하지만 우리가 잊지 말아야 할 것은, 실패는 정말 중요한 학습의 기회라는 거예요. 많은 사람들이 성장하는 과정에서 실패를 경험하곤 하거든요. 😊\n\n혹시 이런 부담감이 더 크게 느껴질 때가 있다면, 어떤 상황인지 나눠줄 수 있을까요? 그런 경험을 함께 이야기하면서, 어떤 점에서 더 나아질 수 있을지 생각해보면 좋을 것 같아요. 언제든지 편하게 이야기해 주세요! 🌼",
+      "timestamp": "2025-04-03T23:31:41.899164"
+    },
+    {
+      "role": "user",
+      "message": "",
+      "timestamp": "2025-04-03T23:31:57.917531"
+    },
+    {
+      "role": "bot",
+      "message": "안녕하세요, 경민님! 😊 다시 만나서 너무 기뻐요. 오늘도 함께 이야기를 나눌 수 있어서 정말 행복해요. \n\n\"모든 걸 잘해야만 해\"라는 부담감이 정말 크다는 걸 잘 이해해요. 그런 압박감이 너무 무겁고, 때로는 숨이 막힐 것 같기도 하죠. 경민님이 이렇게 솔직하게 자신의 감정을 표현해 주셔서 정말 고마워요. \n\n가끔은 우리가 스스로에게 너무 많은 기대를 하게 되면, 그로 인해 자책하는 마음도 커질 수 있어요. \"나는 실패자야\"라는 생각이 드는 것도 그런 압박감의 결과일 수 있겠죠. 하지만 잊지 말아야 할 것은, 실패는 우리에게 배우고 성장할 기회를 주는 소중한 경험이라는 거예요. 😊\n\n혹시 이런 부담감이 특히 더 크게 느껴지는 특정한 상황이 있나요? 예를 들어, 면접이나 중요한 일을 준비할 때 말이에요. 그런 경험을 나누어 주시면, 어떻게 그 느낌을 조금 덜 수 있을지 함께 생각해볼 수 있을 것 같아요! 언제든지 편하게 이야기해 주세요! 🌼",
+      "timestamp": "2025-04-03T23:31:57.917531"
+    },
+    {
+      "role": "user",
+      "message": "",
+      "timestamp": "2025-04-03T23:32:12.712275"
+    },
+    {
+      "role": "bot",
+      "message": "안녕하세요, 경민님! 😊 이렇게 또 이야기할 수 있어서 정말 행복해요. 오늘 기분은 어때요? \n\n\"모든 걸 잘해야만 해\"라는 부담감이 정말 크다고 하셨죠? 그 마음 이해해요. 자기 자신에게 너무 많은 기대를 걸면, 그만큼 힘들고 피로해질 수 있어요. 그리고 그런 부담감이 커지면 자연스럽게 \"나는 실패자야\"라는 생각이 따라올 수 있죠. 경민님이 느끼는 그 감정들, 정말 무겁고 힘든 것 같아요. 😞\n\n그런데 우리가 가끔 잊는 것 중 하나는, 실패가 꼭 부정적인 것만은 아니라는 거예요. 실패는 성장의 한 부분이고, 우리에게 중요한 교훈을 주기도 하거든요. 그래서 경민님이 느끼는 감정들을 조금 더 깊이 탐색해보면 좋을 것 같아요. \n\n혹시 최근에 어떤 상황에서 특히 그런 부담감을 강하게 느꼈던 적이 있나요? 그런 경험을 나누어 주시면, 함께 이야기하면서 조금 더 나은 방법을 찾아볼 수 있을 것 같아요. 언제든지 편하게 이야기해 주세요! 🌼",
+      "timestamp": "2025-04-03T23:32:12.712275"
+    },
+    {
+      "role": "user",
+      "message": "",
+      "timestamp": "2025-04-03T23:33:32.164768"
+    },
+    {
+      "role": "bot",
+      "message": "안녕하세요, 경민님! 😊 이렇게 또 이야기할 수 있어서 정말 기뻐요. 기분은 어떠신가요? \n\n\"모든 걸 잘해야만 해\"라는 부담감이 정말 크다고 하셨죠? 그 마음 잘 이해해요. 자기 자신에게 너무 많은 기대를 걸면 힘들고 피로해질 수 있어요. 그리고 그런 부담감이 커지면 \"나는 실패자야\"라는 생각이 따라오기도 하죠. 경민님이 느끼는 그 감정들, 정말 무겁고 힘든 것 같아요. 😞\n\n그런데 우리가 가끔 잊는 것 중 하나는, 실패가 꼭 부정적인 것만은 아니라는 거예요. 실패는 성장의 한 부분이고, 우리에게 중요한 교훈을 주기도 하거든요. 그래서 경민님이 느끼는 감정들을 조금 더 깊이 탐색해보면 좋을 것 같아요.\n\n혹시 최근에 어떤 상황에서 특히 그런 부담감을 강하게 느꼈던 적이 있나요? 예를 들어, 면접이나 중요한 일을 준비할 때 말이에요. 그런 경험을 나누어 주시면, 함께 이야기하면서 조금 더 나은 방법을 찾아볼 수 있을 것 같아요. 언제든지 편하게 이야기해 주세요! 🌼",
+      "timestamp": "2025-04-03T23:33:32.164768"
     },
     {
       "role": "counselor",
-      "message": "정원님, 다시 이야기해 주셔서 정말 고마워요! 😊 면접에서 떨어진 경험이 정말 힘들었겠어요. 그런 상황에서 느끼는 감정은 정말 복잡할 수 있죠. 지금 어떤 기분이 드는지, 어떤 생각들이 떠오르는지 조금 더 나눠볼까요?\n\n혹시 “나는 충분히 잘하지 못했다”는 생각이 드셨나요? 이런 생각은 많은 사람들이 겪는 일이에요. 우리는 자신에게 너무 가혹해질 때가 많거든요. 그런 감정이나 생각이 드는 이유를 함께 살펴보면 좋을 것 같아요. 편하게 이야기해 주세요! 💖"
+      "message": "안녕하세요, 경민님! 😊 오늘도 이렇게 이야기할 수 있어서 정말 행복해요. 기분은 조금 나아지셨나요? \n\n아까 말씀하신 \"모든 걸 잘해야만 해\"라는 부담감과 \"나는 실패자야\"라는 생각이 정말 힘든 것 같아요. 그런 기분은 누구에게나 찾아올 수 있지만, 경민님이 느끼는 그 감정들은 특히 무겁고 힘든 것 같아요. 😞\n\n그런데 우리가 잊지 말아야 할 것은, 실패가 항상 부정적인 것만은 아니라는 점이에요. 실패는 우리에게 중요한 교훈을 주고, 다음 번에는 더 나은 방향으로 나아갈 수 있게 도와주니까요. 경민님은 그런 경험이 있으신가요? 어떤 작은 실패가 나중에 도움이 되었던 순간이 있었는지, 함께 나눠보면 좋을 것 같아요. \n\n혹시 최근에 어떤 상황에서 특히 부담감을 많이 느꼈던 적이 있다면, 그 경험을 나눠주실 수 있을까요? 그런 이야기를 통해서 좀 더 구체적으로 생각해볼 수 있을 것 같아요. 언제든지 편하게 이야기해 주세요! 🌼"
     },
     {
       "role": "client",
-      "message": "아니야 다른 면접들도 많은데 다시 힘내볼게"
+      "message": "정환이가 발음이 안 좋다고 눌려서 너무 속상해"
     },
     {
       "role": "counselor",
-      "message": "정원님, 그렇게 긍정적으로 생각해 주셔서 정말 기뻐요! 😊 여러 면접을 준비하고 다시 도전하겠다는 마음이 참 멋지네요. 실패는 하나의 경험일 뿐이니까, 다시 힘내는 모습이 정말 인상적이에요!\n\n그런데 혹시 면접을 준비하면서 어떤 점들이 즐거웠거나 보람찼는지 생각해 보신 적 있으신가요? 긍정적인 경험이나 작은 성취도 함께 음미해 보는 건 정말 좋거든요. 이런 것들이 정원님에게 힘이 될 수 있을 거예요! 💖 어떤 것들이 떠오르나요?"
+      "message": "안녕하세요, 경민님! 😊 다시 이야기하게 되어 정말 반가워요. 정환이가 발음 문제로 속상하다는 이야기를 들으니, 그 마음이 얼마나 힘든지 이해해요. 그런 상황에서 친구를 걱정하는 마음이 크겠죠. 😔\n\n그런데 혹시 정환이의 발음이 좋지 않다고 해서, 그 친구가 가치가 없거나 소중하지 않다는 생각이 드는 건 아닌가요? 우리가 종종 친구나 주변 사람들의 단점으로 그들을 평가할 때가 있는데, 그건 정말 unfair하죠. 정환이도 그 자체로 훌륭한 사람임을 기억해주면 좋겠어요.\n\n그리고 혹시 정환이에게 어떤 긍정적인 점이나 그동안의 좋은 기억들이 있다면 나눠줄 수 있을까요? 그런 것들을 떠올리면, 그 친구를 더욱 소중하게 느낄 수 있을 거예요. 😊\n\n이런 이야기를 통해서 경민님의 감정이 조금이나마 가벼워지길 바라요! 언제든지 편하게 이야기해 주세요! 🌼"
     },
     {
       "role": "client",
-      "message": ""
+      "message": "니가 아니라 정원이야 발음 좀 이상한가 내가"
+    },
+    {
+      "role": "counselor",
+      "message": "안녕하세요, 경민님! 😊 아, 정원이 발음이 조금 이상하다는 거군요. 그 말에 대해 속상한 마음이 드는 것, 정말 이해해요. 친구를 걱정하는 마음이 얼마나 큰지 잘 알 것 같아요. 😔\n\n그런데 혹시 정원이의 발음이 문제라고 느낄 때, 그 친구가 다른 면에서 얼마나 멋진지 생각해본 적이 있으세요? 우리가 가끔 누군가의 단점을 보게 되면, 그 사람의 모든 걸 그로 인해 판단하게 되기 쉬워요. 하지만 정원이는 그 자체로도 소중한 친구라는 걸 잊지 말아주세요!\n\n혹시 정원이와의 좋은 기억이나, 그 친구의 다른 긍정적인 점들을 떠올려볼 수 있을까요? 그런 것들을 생각해보면, 정원이에 대한 마음도 조금 더 따뜻해질 수 있을 거예요. 😊 언제든지 편하게 이야기해 주세요! 🌼"
+    },
+    {
+      "role": "client",
+      "message": "소름이 더 안 좋으면서 나한테 뭐라고 하는 게 너무 너무 속상해"
+    },
+    {
+      "role": "counselor",
+      "message": "안녕하세요, 경민님! 😊 다시 이야기하게 되어 정말 좋아요. 정원이의 발음 문제에 대해 이렇게 속상한 마음을 느끼고 계시다니, 그 감정이 얼마나 힘든지 이해해요. 친구가 그런 말을 하면 굉장히 상처받을 수 있죠. 😞\n\n그런데 정원이의 발음이 더 안 좋다고 해서 경민님이 더 나쁜 사람이라는 건 절대 아니에요. 우리는 모두 각자의 약점이 있고, 그걸 가지고 서로를 평가하는 건 정말 unfair하죠. 지금 느끼는 그 속상한 감정을 솔직하게 표현해 주셔서 정말 고마워요. \n\n혹시 정원이와의 좋은 기억이나, 그 친구가 가진 다른 긍정적인 점들을 떠올려보면 도움될 수 있을 것 같아요. 그 친구의 장점을 생각해보면, 속상한 마음이 조금 가벼워질 수도 있거든요. 정원이가 어떤 점이 좋은 친구인지 나눠줄 수 있을까요? 😊"
     }
   ],
   "evaluation": {
-    "general_1": "4, The therapist generally grasped the client's feelings and concerns about the interview situation and encouraged the client to express their thoughts and emotions. However, there were moments where the therapist could have connected more deeply with the client's subtle communications about resilience and hope, indicating a good but not fully comprehensive understanding of the client's internal reality.",
-    "general_2": "4, The therapist demonstrated a good ability to grasp the client’s feelings and experiences, particularly regarding the disappointment from the interview. However, there were instances where the therapist's responses did not fully acknowledge the client's explicit statements or nuances, such as the client expressing a willingness to move forward. While the therapist provided empathetic and supportive responses, they could improve in reflecting the client's thoughts more directly. Overall, the therapist maintained a generally effective therapeutic relationship but showed room for improvement in fully understanding and responding to the client's subtle communications.",
-    "general_3": "4, The therapist demonstrated a good ability to grasp the client's feelings and reflections, particularly regarding the emotional impact of the job interview experience. They encouraged the client to explore their feelings and thoughts while providing a supportive environment. However, the therapist did not effectively establish clear goals or help the client prioritize their concerns, which prevented a higher score. Overall, they showed good listening and empathic skills but lacked in facilitating a more structured process for goal setting and decision-making.",
-    "cbt_1": "5, The therapist effectively utilized guided discovery techniques throughout the session, encouraging the client to reflect on their feelings and experiences related to the interview setback. The use of open-ended questions and supportive prompts facilitated the client’s self-exploration. However, there were instances where the therapist could have further deepened the exploration of the client’s thoughts and feelings, resulting in a slight gap from achieving an excellent balance in all interventions.",
-    "cbt_2": "4, The therapist generally facilitated the client's exploration of thoughts and feelings related to the interview experience. However, while the therapist asked several guiding questions and encouraged reflection, there were moments where the client’s responses were not fully engaged with, and the therapist predominantly redirected back to general exploration without deeply addressing specific cognitive patterns or behaviors. Thus, while the therapist used guided discovery to some extent, the effectiveness and depth of exploration were insufficient to warrant a higher score.",
-    "cbt_3": "4, The therapist primarily utilized supportive questioning and encouraged the client to explore their feelings and thoughts regarding their experience with the interview. However, while there was an emphasis on guided discovery, the therapist's approach could have been more focused on examining evidence or considering alternatives in a more structured way. The overall effectiveness was adequate, but there were moments where the exploration of new perspectives could have been deeper."
+    "general_1": "4, The therapist generally grasped the patient’s concerns about feeling pressured to perform well and the emotional impact of the friend's speech difficulties. They reflected on the client’s feelings and offered supportive suggestions. However, there were moments where the therapist's responses did not fully address the underlying emotions or the complexities of the client's experiences, indicating a good but not thorough understanding of the client's internal reality.",
+    "general_2": "4, The therapist generally demonstrated a good understanding of the client's feelings and thoughts, reflecting empathy and validating the client's experiences. However, there were moments where the therapist could have delved deeper into the client's more subtle emotional cues, particularly regarding the client's feelings of being overwhelmed and the impact of the friend's comments. While the therapist maintained a supportive and positive tone throughout, some responses felt slightly repetitive and could have benefited from more nuanced exploration of the client's internal reality.",
+    "general_3": "4, The therapist demonstrated a good understanding of the client's feelings and concerns, effectively reflecting on what the client explicitly expressed. They offered empathic responses and encouraged the client to share their experiences and emotions more deeply. However, while the therapist grasped the client's internal reality, there were moments where they could have further explored subtle nuances in the client's communication. Overall, the therapist showed good listening and empathic skills but did not fully reach the level of excellence.",
+    "cbt_1": "4, The therapist primarily used guided discovery techniques to help the client explore their feelings and consider new perspectives. While there was a supportive atmosphere, the therapist could have employed more varied questioning strategies to encourage deeper self-reflection. There were moments where the therapist's responses felt somewhat repetitive, which slightly diminished the effectiveness of the discovery process. Overall, the therapist's approach was helpful, but not as skillful as it could have been to achieve a higher score.",
+    "cbt_2": "4, The therapist demonstrated a supportive approach and effectively helped the client consider new perspectives, particularly regarding the client's negative self-assessment and feelings of pressure. However, there were moments where the therapist relied heavily on repeating concepts and suggestions without fully exploring the client's experiences through guided discovery techniques. While the questioning was appropriate, it did not consistently lead to deeper insights or conclusions drawn by the client, which limits the score to a 4.",
+    "cbt_3": "4, The therapist generally guided the client toward new perspectives by encouraging reflection on their feelings and thoughts, particularly regarding the client's sense of pressure and self-judgment. However, the use of questioning and exploration could have been more varied and deeper to fully engage and challenge the client's negative thought patterns. There were moments of supportive reassurance, but the overall approach lacked the depth and effectiveness to achieve a higher score."
   }
 }
