@@ -1,12 +1,13 @@
 {
   "AI_client": {
     "intake_form": "이름: 로라 손더스\n나이: 45\n성별: 여성",
-    "emotion_state": "낙담한",
-    "cognitive_distortion": "overgeneralization",
+    "emotion_state": "없음",
+    "cognitive_distortion": "없음",
     "attitude": "중립",
     "attitude_instruction": "내담자는 긍정적 반응과 부정적 반응이 혼합된 태도를 보입니다.",
-    "dialogue_history_init": "상담자: 안녕하세요, 로라. 어떻게 지내세요?\n내담자: 요즘 너무 벅차게 느껴져요.",
-    "init_history": "요즘 자꾸 친구들에게 내가 쓸모없는 사람 같다는 생각이 들어. 뭘 해도 항상 부족하고, 내 감정도 너무 격해져서 힘들어."
+    "dialogue_history_init": "내담자: 요즘 너무 벅차게 느껴져요.",
+    "init_history": "요즘 자꾸 친구들에게 내가 쓸모없는 사람 같다는 생각이 들어. 뭘 해도 항상 부족하고, 내 감정도 너무 격해져서 힘들어.",
+    "chat_id": "chat123"
   },
   "AI_counselor": {
     "CBT": {

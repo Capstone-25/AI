@@ -14,7 +14,7 @@ from agents.evaluator_agent import EvaluatorAgent
 from agents.sub_llm import SubLLMAgent
 from config import get_config, set_openai_api_key
 from cbt.cbt_mappings import emotion_strategies, cognitive_distortion_strategies
-from DB import save_chat_log  # DB.py에서 함수 import
+from DB import get_chat_log, save_chat_log  # DB.py에서 import
 
 # API 키 설정
 set_openai_api_key()
@@ -27,11 +27,12 @@ client = MongoClient("mongodb+srv://j2982477:EZ6t7LEsGEYmCiJK"
 # 'mindAI' 데이터베이스에 연결
 db = client['mindAI']
 class TherapySimulation:
-    def __init__(self, example: dict, persona_type: str, max_turns: int = 20):
+    def __init__(self, example: dict, persona_type: str, chat_id: str, max_turns: int = 20):
         self.example = example
         self.persona_type = persona_type
+        self.chat_id = chat_id  # chat_id를 인자로 받음
         self.max_turns = max_turns
-        self.history = []
+        self.history =  get_chat_log(chat_id)  # DB에서 채팅 로그 불러오기
         self.metadata = get_config()
 
         self.client_agent = ClientAgent(example["AI_client"])
@@ -118,7 +119,7 @@ class TherapySimulation:
                 distortion=distortion
             )
             # 5. 채팅 로그 저장
-            save_chat_log("user123", "chat123", client_msg, counselor_msg)  # 채팅 로그를 MongoDB에 저장
+            save_chat_log("chat123",self.chat_id, client_msg, counselor_msg)  # 채팅 로그를 MongoDB에 저장
             # 6. 종료 조건 체크
             if "[/END]" in client_msg:
                 self.history[-1]["message"] = client_msg.replace("[/END]", "")
@@ -152,7 +153,7 @@ if __name__ == "__main__":
     with open(args.input_file, "r", encoding="utf-8") as f:
         example = json.load(f)
 
-    sim = TherapySimulation(example, args.persona_type)
+    sim = TherapySimulation(example, args.persona_type, chat_id="chat123")
     result = sim.run()
 
     Path(args.output_file).parent.mkdir(parents=True, exist_ok=True)
