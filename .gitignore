@@ -4,4 +4,5 @@ venv/
 vector_store/
 conf.d/
 test_code/
+vector_store.py
 logs/
