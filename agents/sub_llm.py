@@ -65,6 +65,7 @@ class SubLLMAgent:
             distortion = "없음"
             distortion_strategy = "인지 왜곡 전략을 찾을 수 없습니다."
 
+        total_strategy = f"{emotion_strategy} | {distortion_strategy}"
 
 
         # 최종 반환할 JSON 형식으로 결과를 생성
@@ -73,5 +74,6 @@ class SubLLMAgent:
             "감정_CBT전략": emotion_strategy,
             "인지왜곡": distortion,
             "인지왜곡_CBT전략": distortion_strategy,
+            "총합_CBT전략": total_strategy,  # 감정 전략과 인지 왜곡 전략을 결합한 총합 전략
             "원본문": response
         }

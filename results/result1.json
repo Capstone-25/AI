@@ -1,89 +1,112 @@
 {
   "persona": "persona_20s_friend",
-  "cbt_strategy": "감정 강화: 즐거운 경험을 음미하고 감사 일기를 작성하여 긍정 정서를 증진합니다. ",
-  "cbt_technique": "",
+  "cbt_strategy": "감정 전략을 찾을 수 없습니다. | 없음에 대한 전략을 찾을 수 없습니다.",
   "cognitive_distortion": "없음",
-  "emotion": "기쁨",
+  "emotion": "없음",
   "history": [
     {
+      "role": "user",
+      "message": "나에대해 알고있니",
+      "timestamp": "2025-04-03T17:39:02.754073"
+    },
+    {
+      "role": "bot",
+      "message": "안녕하세요, 정원님! 오늘 이렇게 이야기하게 돼서 정말 기뻐요. 😊 어떤 고민이 있으신지, 혹은 요즘 기분이 어떤지 말씀해 주실 수 있어요? 당신의 이야기를 듣고 싶어요. \n\n이 공간은 안전하니까, 마음 편히 털어놓아도 괜찮아요!",
+      "timestamp": "2025-04-03T17:39:02.754073"
+    },
+    {
+      "role": "user",
+      "message": "나의 정보에대해 알고있는게있으면 말해봐",
+      "timestamp": "2025-04-03T17:39:21.167418"
+    },
+    {
+      "role": "bot",
+      "message": "정원님, 물론이죠! 😊 제가 당신에 대해 조금 더 알게 되면 좋겠어요. 당신의 감정이나 생각에 대해 이야기하는 것이 중요하니까요. 현재 어떤 기분인지, 또는 어떤 생각이 드는지 나눠주실 수 있어요? 지금은 특별히 어떤 고민이 있는지 궁금해요. 이 공간은 당신의 이야기를 들어주기 위해 마련된 곳이니까 편하게 이야기해 주세요!",
+      "timestamp": "2025-04-03T17:39:21.167418"
+    },
+    {
+      "role": "user",
+      "message": "는 면접에서 떨어졌어 이점 기억해줘",
+      "timestamp": "2025-04-03T17:39:37.145266"
+    },
+    {
+      "role": "bot",
+      "message": "정원님, 당신이 나에 대해 알고 싶어하는 마음을 이해해요! 😊 우리는 서로를 조금 더 알아가는 과정에 있어요. 지금은 당신이 어떤 생각이나 감정을 가지고 있는지 이야기해 주는 게 좋을 것 같아요. \n\n혹시 최근에 겪은 일이나, 생각하고 있는 것들이 있다면 나눠줄 수 있어요? 어떤 것이라도 괜찮으니까, 편하게 이야기해 주세요. 이 공간은 당신의 이야기를 듣고 지지하기 위해 마련된 곳이니까요! 💖",
+      "timestamp": "2025-04-03T17:39:37.145266"
+    },
+    {
+      "role": "user",
+      "message": "exitexit",
+      "timestamp": "2025-04-03T17:39:47.387218"
+    },
+    {
+      "role": "bot",
+      "message": "정원님, 면접에서 떨어진 경험이 정말 힘들었겠어요. 😔 그런 상황은 누구에게나 슬픔과 실망감을 줄 수 있어요. 당신의 감정이 정말 이해가 가요. 이럴 때는 자신을 너무 비난하지 않는 것이 중요하답니다. \n\n혹시 그 면접에서 어떤 점이 힘들었는지, 아니면 어떤 생각이 드셨는지 나눌 수 있을까요? 그 경험을 통해 느낀 감정이나 생각들을 함께 이야기해보면 좋을 것 같아요. 그리고 혹시 그 외에도 다른 긍정적인 경험들이 있었다면, 그것도 함께 나눠볼 수 있을까요? 😊",
+      "timestamp": "2025-04-03T17:39:47.387218"
+    },
+    {
+      "role": "user",
+      "message": "/END",
+      "timestamp": "2025-04-03T17:39:55.764079"
+    },
+    {
+      "role": "bot",
+      "message": "정원님, 면접에서 떨어진 경험이 정말 안타깝고 힘들었을 것 같아요. 😔 그런 상황은 누구에게나 스트레스를 주고, 자신에 대한 의문을 가질 수도 있죠. 기분이 어떠셨는지, 어떤 생각이 드셨는지 조금 더 이야기해 볼까요? \n\n이때는 자신에게 너무 harsh하게 대하지 않는 것이 중요해요. 실패는 배우는 과정의 일부분이니까요. 혹시 그 면접에서 느낀 감정이나 생각들 중에서 기억에 남는 것들이 있나요? 그런 것들을 나누면 더 나은 방향으로 나아갈 수 있을 거예요. 😊",
+      "timestamp": "2025-04-03T17:39:55.764079"
+    },
+    {
+      "role": "user",
+      "message": "[/END]",
+      "timestamp": "2025-04-03T17:40:15.836461"
+    },
+    {
+      "role": "bot",
+      "message": "정원님, 면접에서 떨어진 일이 정말 힘들었겠어요. 😔 그런 경험은 누구에게나 슬픔과 실망감을 주니까요. 지금 기분이 어떠신지 궁금해요. 이럴 때는 자신에게 너무 가혹하지 않도록 하는 게 중요해요. \n\n혹시 면접을 준비하면서 느꼈던 압박감이나, 떨어진 후에 떠오른 생각들이 있었나요? 이런 감정을 나누는 것이 도움이 될 수 있을 거예요. 이 공간은 당신의 이야기를 듣고 지지하는 곳이니까, 편하게 이야기해 주세요! 💖",
+      "timestamp": "2025-04-03T17:40:15.836461"
+    },
+    {
+      "role": "user",
+      "message": "나에대해 알고있는게있으면 말해봐",
+      "timestamp": "2025-04-03T17:40:53.718659"
+    },
+    {
+      "role": "bot",
+      "message": "정원님, 정말 힘든 순간을 겪고 계시겠어요. 😔 면접에서 떨어진 후에 어떤 감정을 느끼셨는지, 혹은 어떤 생각들이 떠오르셨는지 이야기해 주실 수 있을까요? 그런 감정들을 나누는 게 도움이 될 수 있어요. \n\n또한, 혹시 면접 준비를 하면서 스스로에게 어떤 기대를 했는지, 또는 어떤 압박감이 있었는지도 궁금해요. 이 모든 게 당신의 경험이니까, 편하게 이야기해 주세요! 💖",
+      "timestamp": "2025-04-03T17:40:53.718659"
+    },
+    {
+      "role": "user",
+      "message": "[/END]",
+      "timestamp": "2025-04-03T17:41:06.526324"
+    },
+    {
+      "role": "bot",
+      "message": "정원님, 다시 이야기해 주셔서 고마워요! 😊 면접에서 떨어진 일로 마음이 힘든 것 같아요. 이런 경험은 정말 누구에게나 어려운 일이고, 감정이 복잡하게 얽힐 수 있죠. 지금 어떤 생각이나 감정이 드는지 나눠주실 수 있어요? \n\n혹시 떨어진 후에 자신에 대해 어떤 생각이 들었는지도 궁금해요. 예를 들어, '나는 충분히 잘하지 못했다'는 생각이 드셨나요? 혹은 다른 감정들이 있었나요? 이걸 이야기하는 게 정말 도움이 될 수 있어요. 편하게 얘기해 주세요! 💖",
+      "timestamp": "2025-04-03T17:41:06.526324"
+    },
+    {
       "role": "counselor",
-      "message": "안녕하세요, 로라. 어떻게 지내세요?"
+      "message": "정원님, 다시 이야기해 주셔서 정말 고마워요! 😊 면접에서 떨어진 경험이 정말 힘들었겠어요. 그런 상황에서 느끼는 감정은 정말 복잡할 수 있죠. 지금 어떤 기분이 드는지, 어떤 생각들이 떠오르는지 조금 더 나눠볼까요?\n\n혹시 “나는 충분히 잘하지 못했다”는 생각이 드셨나요? 이런 생각은 많은 사람들이 겪는 일이에요. 우리는 자신에게 너무 가혹해질 때가 많거든요. 그런 감정이나 생각이 드는 이유를 함께 살펴보면 좋을 것 같아요. 편하게 이야기해 주세요! 💖"
     },
     {
       "role": "client",
-      "message": "요즘 너무 벅차게 느껴져요."
+      "message": "아니야 다른 면접들도 많은데 다시 힘내볼게"
     },
     {
       "role": "counselor",
-      "message": "안녕하세요, 로라! 이렇게 얘기해줘서 고마워요. 요즘 정말 벅차게 느껴지시는군요. 그런 기분은 정말 힘들죠. 슬프고 힘든 감정을 느끼는 건 너무 자연스러운 일이에요. \n\n우리 함께 이 상황을 조금 더 나아지게 할 수 있는 방법을 생각해볼까요? 오늘은 간단한 활동부터 시작해보는 게 좋을 것 같아요. 어떤 활동이든 좋으니, 당신이 조금이라도 즐길 수 있을 것 같은 것, 또는 의미가 있다고 느낄 수 있는 것들을 하나 생각해볼까요? \n\n예를 들어, 가까운 공원에서 산책을 하거나, 좋아하는 음악을 들으면서 시간을 보내는 것처럼요. 그런 작은 활동들이 기분을 조금씩 바꿔줄 수 있을 거예요. 어떻게 생각하세요? 😊"
+      "message": "정원님, 그렇게 긍정적으로 생각해 주셔서 정말 기뻐요! 😊 여러 면접을 준비하고 다시 도전하겠다는 마음이 참 멋지네요. 실패는 하나의 경험일 뿐이니까, 다시 힘내는 모습이 정말 인상적이에요!\n\n그런데 혹시 면접을 준비하면서 어떤 점들이 즐거웠거나 보람찼는지 생각해 보신 적 있으신가요? 긍정적인 경험이나 작은 성취도 함께 음미해 보는 건 정말 좋거든요. 이런 것들이 정원님에게 힘이 될 수 있을 거예요! 💖 어떤 것들이 떠오르나요?"
     },
     {
       "role": "client",
-      "message": "Client: 저는 가끔씩 공원 산책을 하면서 마음이 조금 편해지는 걸 느껴요. 하지만 그게 항상 가능한 건 아니에요. 여러 가지 생각이 자꾸 들어서요. 그 생각들이 저를 붙잡고 있는 것 같아요. 어떻게 그걸 극복할 수 있을까요?"
-    },
-    {
-      "role": "counselor",
-      "message": "로라, 정말 솔직하게 말씀해줘서 고마워요. 공원에서 산책이 마음에 조금이나마 편안함을 준다니 좋은 방법이네요! 하지만 그런 좋은 경험도 여러 가지 생각이 자꾸 떠오르면 힘들 수 있죠. 그 생각들이 당신을 붙잡고 있다는 느낌, 정말 이해해요. \n\n이런 순간에는 우리가 그 생각들을 조금 더 잘 다룰 수 있는 방법을 찾아보는 게 좋을 것 같아요. 먼저, 그 생각들이 어떤 것인지 한번 적어보는 건 어떨까요? 어떤 걱정이나 부정적인 생각들이 자꾸 들어오는지 적어보면, 그걸 객관적으로 보고 조금 더 쉽게 다룰 수 있을 거예요. \n\n예를 들어, “나는 러닝을 하지 못할 것이다” 같은 생각들이 떠오르나요? 그런 생각들을 적어보면, 그 생각들이 얼마나 현실적인지, 아니면 우리가 도와줄 수 있는 부분이 있는지 보게 될 거예요. 이렇게 작은 시작을 해보면 좋을 것 같아요! 😊 어떻게 생각하세요?"
-    },
-    {
-      "role": "client",
-      "message": "Client: 제가 어떤 생각들을 적어봐야 할지 잘 모르겠어요. 가끔은 모든 것이 너무 혼란스러워서, 그 생각들을 정리하는 게 어려워요. 하지만 제가 어떤 부정적인 감정들을 느끼는지 알고 싶긴 해요. 그걸 통해 조금 더 나아질 수 있을까요?"
-    },
-    {
-      "role": "counselor",
-      "message": "로라, 그 기분 정말 이해해요. 모든 것이 혼란스럽고 부정적인 생각들이 머릿속에서 떠다니는 건 정말 힘든 일이죠. 당신이 그런 감정을 느끼는 건 너무 자연스러운 일이에요. 이렇게 솔직하게 말해줘서 정말 고마워요! 💖\n\n지금은 그 생각들을 정리하는 게 어려울 수 있지만, 작은 단계로 시작해보는 게 좋을 것 같아요. 예를 들어, 하루 중에 어떤 순간에 가장 부정적인 생각이 드는지, 또는 어떤 상황에서 슬픔을 느끼는지를 적어보는 건 어떨까요? 그렇게 하면 그 생각들이 어떤 경향이 있는지 조금 더 쉽게 알 수 있을 거예요. \n\n또, 그 생각들을 적을 때는, “나는...”으로 시작하는 문장으로 적어보면 좋을 것 같아요. 예를 들어, “나는 내가 러닝을 잘 하지 못할 것이라고 생각해”처럼요. 이렇게 하면 어떤 생각이 자주 떠오르는지를 파악하는 데 도움이 될 거예요! 😊\n\n물론, 이 과정이 쉽지는 않겠죠. 하지만 천천히 해보면 조금씩 나아질 거예요. 한번 시도해볼까요? 어떻게 생각하세요? 🌼"
-    },
-    {
-      "role": "client",
-      "message": "Client: 네, 그 방법이 좋을 것 같아요. 하루 중 부정적인 생각이 드는 순간을 적어보면서 어떤 패턴이 있는지 살펴보는 게 도움이 될 것 같아요. 그렇게 함으로써 제 감정을 조금 더 이해하고, 나아질 수 있는 방법을 찾아갈 수 있을 것 같아요. 감사합니다."
-    },
-    {
-      "role": "counselor",
-      "message": "로라, 멋진 결정이에요! 😊 그 방법이 정말 도움이 될 것 같아요. 부정적인 생각들을 적어보면서 패턴을 찾는 과정은 자기 이해를 깊게 해줄 수 있어요. 이렇게 스스로를 돌아보는 건 정말 용기 있는 일이에요!\n\n부정적인 생각들을 적어보는 동안, 혹시 그 생각들이 당신에게 어떤 감정을 주는지도 함께 느껴보면 좋을 것 같아요. 예를 들어, \"나는 러닝을 잘 하지 못할 것이라고 생각해\"라고 적을 때, 그 생각이 드는 순간 당신이 어떤 기분인지도 적어보는 거예요. 그렇게 함으로써, 그 생각과 감정이 어떻게 연결되어 있는지를 알아볼 수 있을 거예요. 💖\n\n그리고 만약 어떤 생각이 너무 힘들게 느껴지면, 그걸 잠시 내려놓고 다른 즐거운 활동을 해보는 것도 좋아요. 좋아하는 음악을 듣거나, 간단한 운동을 해보는 거죠! 그렇게 하면 기분이 조금 나아질 수 있을 거예요.\n\n이 과정을 진행하면서 언제든지 저와 이야기 나누고 싶을 때는 마음껏 이야기해 주세요. 당신의 기분과 생각을 나누는 것, 정말 소중한 일이니까요! 🌼 \n\n시작해볼 준비가 되셨나요? 어떤 생각을 적어보고 싶으신지 궁금해요!"
-    },
-    {
-      "role": "client",
-      "message": "Client: 네, 준비가 되었습니다. 최근에 느꼈던 부정적인 생각들을 적어보면서 제 감정을 이해해보려고 해요. 이 과정을 통해 조금 더 나은 방향으로 나아갈 수 있을 것 같아요. 그렇게 되면 좋겠어요. 감사합니다!"
-    },
-    {
-      "role": "counselor",
-      "message": "로라, 정말 멋진 마음가짐이에요! 😊 당신이 준비가 되었다니 너무 기뻐요. 부정적인 생각들을 적어보면서 감정을 이해해보려는 노력은 정말 중요한 첫걸음이에요. 이렇게 한 걸음씩 나아가는 게 큰 변화를 만들어낼 수 있답니다!\n\n혹시 최근에 떠오른 부정적인 생각 중에서 적어보고 싶은 것이 있나요? 예를 들어, \"나는 러닝을 잘 하지 못할 것 같아\" 같은 생각이 떠오른다면, 그 생각을 적어보면서 어떤 감정을 느끼는지 함께 써보는 거죠. 그렇게 하면 그 생각이 당신에게 어떤 영향을 미치는지 더 잘 이해할 수 있을 거예요. 💖\n\n그리고 만약 어떤 생각이 너무 힘들게 느껴지면, 그걸 잠시 내려놓고 다른 즐거운 활동을 해보는 것도 좋은 방법이에요. 이렇게 조금씩 자신을 돌아보면서 감정을 받아들이는 과정은 정말 중요하니까요!\n\n어떤 생각을 적어볼지 고민해보면서, 언제든지 공유하고 싶을 땐 말씀해 주세요. 당신의 이야기를 듣는 게 정말 기다려져요! 🌼"
-    },
-    {
-      "role": "client",
-      "message": "Client: Client: 최근에 \"나는 항상 다른 사람과 비교하게 된다\"는 생각이 자주 들어요. 이런 마음이 저를 더 우울하게 만드는 것 같아요. 다른 사람들은 잘하고 있는 것 같은데, 저는 그렇지 못한 것 같아서요. 이 생각을 어떻게 다뤄야 할까요?"
-    },
-    {
-      "role": "counselor",
-      "message": "로라, 정말 솔직하게 말씀해줘서 고마워요. \"나는 항상 다른 사람과 비교하게 된다\"는 생각은 많은 사람들이 느끼는 어려움 중 하나예요. 다른 사람들과 비교할 때, 그로 인해 더 우울하게 느껴지는 건 정말 자연스러운 일이죠. 당신이 그런 기분을 느끼는 건 전혀 이상한 게 아니에요. 💖\n\n비교는 우리를 더 힘들게 만들 수 있지만, 그 생각을 어떻게 다룰 수 있을지 함께 고민해보면 좋을 것 같아요. 먼저, 그 생각이 드는 순간, 당신이 어떤 기분을 느끼는지 적어보는 건 어떨까요? 예를 들어, “다른 사람과 비교할 때 내가 느끼는 슬픔” 같은 식으로요. 그렇게 하면 그 감정이 어떤지 조금 더 구체적으로 이해할 수 있을 거예요. \n\n그리고 나서, 그런 비교의 기준이 무엇인지도 함께 생각해보면 좋겠어요. 어떤 사람과 비교하고 있는지, 그 사람이 가진 것들이 정말로 당신에게 필요한 것인지, 아니면 단순히 그들의 모습이 부각되어 보이는 것인지 말이죠. 이렇게 자기를 돌아보는 과정은 정말 중요한 첫걸음이에요! 😊\n\n어떤 감정을 느끼고 있는지 적어보는 것부터 시작해볼까요? 그렇게 하면서 당신의 감정을 조금 더 이해하는 데 도움이 될 거예요! 🌼"
-    },
-    {
-      "role": "client",
-      "message": "Client: Client: 제가 다른 사람과 비교할 때 느끼는 감정은 주로 슬픔과 불안이에요. 제 자신이 부족하다고 느껴지면서, 그런 기분이 자꾸 반복되는 것 같아요. 하지만 이렇게 제 감정을 적어보니까 조금은 더 명확해진 것 같아요. 이런 감정을 어떻게 긍정적인 방향으로 바꿀 수 있을까요?"
-    },
-    {
-      "role": "counselor",
-      "message": "로라, 당신이 느끼는 슬픔과 불안, 정말 이해해요. 다른 사람과 비교하면서 자신이 부족하다고 느끼는 건 정말 힘든 일이에요. 그런 기분을 적어보면서 조금 더 명확해졌다는 말이 너무 기쁘네요! 💖\n\n이제 다음 단계로 나아가볼까요? 긍정적인 방향으로 감정을 바꾸기 위한 한 가지 방법은, 당신이 비교하고 있는 사람들의 장점과 그들이 가진 것들에 대해 조금 더 구체적으로 생각해보는 거예요. 예를 들어, 그 사람의 어떤 점이 마음에 드는지 적어보는 거죠. 그리고 그런 장점들이 당신에게 어떤 의미가 있는지를 한 번 고민해보면 좋을 것 같아요.\n\n그 사람의 장점이 당신에게 긍정적인 영감을 줄 수 있을 수도 있어요. \"그 사람이 가진 이 점이 나에게도 도움이 될 수 있겠다\"라고 생각해보는 거죠. 이렇게 하면, 비교가 긍정적인 동기부여로 바뀔 수 있게 돼요! 😊\n\n어떤 사람과 비교하고 있는지, 그리고 그 사람의 장점이 무엇인지 적어보는 건 어떨까요? 그렇게 하면 그 비교가 당신에게 어떤 영향을 미치는지 조금 더 깊이 이해할 수 있을 거예요. 🌼 그렇게 한 단계씩 나아가보면 좋겠어요!"
-    },
-    {
-      "role": "client",
-      "message": "Client: Client: 제가 비교하고 있는 사람은 제 친구인데, 그녀는 항상 자신감 있게 행동하고 일도 잘해요. 그 점이 정말 부러워요. 그런 그녀를 보면서 저도 더 잘할 수 있을 거라는 동기부여가 될 수 있을 것 같아요. 이렇게 긍정적으로 생각해보니까 제 기분이 조금 나아진 것 같아요. 감사합니다!"
-    },
-    {
-      "role": "counselor",
-      "message": "로라, 정말 잘했어요! 😊 친구의 자신감과 능력 있는 모습을 보면서 긍정적인 동기부여를 느끼게 되었다니, 그건 정말 좋은 방향이에요! 그런 친구가 있다는 건 당신에게도 큰 힘이 될 수 있을 거예요. 친구의 장점에서 영감을 받아서 자신에게도 동기를 주는 건 훌륭한 방법이니까요! 💖\n\n이제, 그 친구의 자신감 있던 행동이나 일처리 방식 중에서 당신이 배우고 싶거나 적용해보고 싶은 부분이 있을까요? 그런 점들을 구체적으로 생각해보면, 당신도 한 걸음 나아가는 데 도움이 될 수 있을 거예요. 예를 들어, \"그 친구는 항상 긍정적인 태도로 일을 해결해\" 같은 식으로요. \n\n이렇게 친구를 통해 얻은 긍정적인 감정을 더 발전시키면 좋겠어요! 어떤 점이 당신에게 영감을 주는지 함께 이야기해볼까요? 🌼"
-    },
-    {
-      "role": "client",
-      "message": "Client: Client: 네, 제 친구는 항상 긍정적인 태도로 문제를 해결하는데, 그 점이 정말 인상 깊어요. 저도 그런 태도를 배우고 싶고, 일상에서 적용해보고 싶어요. 긍정적인 태도가 저에게도 큰 변화를 가져올 수 있을 것 같아요. 이렇게 생각하니 조금 더 힘이 나는 것 같아요. 감사합니다! "
+      "message": ""
     }
   ],
   "evaluation": {
-    "general_1": "4, The therapist generally demonstrated a good understanding of the patient's feelings and thoughts. They reflected back the client's emotions accurately and offered appropriate suggestions to help the client process their feelings. However, there were moments where the therapist could have delved deeper into the client's subtle emotions or provided more targeted interventions based on the client's specific concerns. Overall, the therapist's ability to listen and empathize was solid but not exceptional, warranting a score of 4.",
-    "general_2": "6, The therapist demonstrated a thorough understanding of the client's internal reality by consistently reflecting and validating the client's feelings. They effectively communicated empathy and support through both verbal affirmations and encouraging suggestions. The therapist maintained a positive and therapeutic relationship, actively engaging the client in exploring their thoughts and feelings. There were no noticeable deficiencies in the therapist's empathic skills or listening abilities throughout the session.",
-    "general_3": "6, The therapist demonstrated a thorough understanding of the client's internal reality throughout the session. They actively reflected and rephrased the client's feelings, providing affirmations and empathetic responses that conveyed a deep understanding of the client's struggles. The therapist also encouraged the client to explore their thoughts and feelings in a constructive way, guiding them toward setting goals and developing strategies for coping. The use of supportive language and non-verbal cues, such as emojis, further enhanced the empathic connection. Overall, the therapist exhibited excellent listening and empathic skills.",
-    "cbt_1": "6, The therapist effectively utilized guided discovery throughout the session by encouraging the client to explore her feelings and thoughts, prompting her to write down her negative thoughts and consider the impact of comparisons with others. The therapist's questions were skillful and balanced, allowing the client to reflect and draw her own conclusions, leading to insights and positive feelings. There were no indications of persuasion or debate, demonstrating a high level of competency in facilitating self-reflection and insight in the client.",
-    "cbt_2": "6, The therapist demonstrated exceptional skill in guiding the client through their thoughts and feelings. They used a variety of supportive strategies, such as encouraging the client to identify and write down negative thoughts, exploring the emotions tied to comparisons, and helping the client reframe those comparisons in a positive light. The therapist maintained a balanced approach, effectively combining questioning with supportive affirmations, which allowed the client to draw their own conclusions and insights. This indicates a high level of proficiency in guided discovery, making the session effective and empowering for the client.",
-    "cbt_3": "6, The therapist effectively utilized guided discovery throughout the session, helping the client explore their feelings and thoughts while encouraging them to identify patterns and consider alternatives. The therapist's questioning was skillful and supportive, facilitating the client's self-reflection and understanding. The approach maintained a balance between questioning and offering practical strategies, resulting in a productive session that empowered the client to draw their own conclusions."
+    "general_1": "4, The therapist generally grasped the client's feelings and concerns about the interview situation and encouraged the client to express their thoughts and emotions. However, there were moments where the therapist could have connected more deeply with the client's subtle communications about resilience and hope, indicating a good but not fully comprehensive understanding of the client's internal reality.",
+    "general_2": "4, The therapist demonstrated a good ability to grasp the client’s feelings and experiences, particularly regarding the disappointment from the interview. However, there were instances where the therapist's responses did not fully acknowledge the client's explicit statements or nuances, such as the client expressing a willingness to move forward. While the therapist provided empathetic and supportive responses, they could improve in reflecting the client's thoughts more directly. Overall, the therapist maintained a generally effective therapeutic relationship but showed room for improvement in fully understanding and responding to the client's subtle communications.",
+    "general_3": "4, The therapist demonstrated a good ability to grasp the client's feelings and reflections, particularly regarding the emotional impact of the job interview experience. They encouraged the client to explore their feelings and thoughts while providing a supportive environment. However, the therapist did not effectively establish clear goals or help the client prioritize their concerns, which prevented a higher score. Overall, they showed good listening and empathic skills but lacked in facilitating a more structured process for goal setting and decision-making.",
+    "cbt_1": "5, The therapist effectively utilized guided discovery techniques throughout the session, encouraging the client to reflect on their feelings and experiences related to the interview setback. The use of open-ended questions and supportive prompts facilitated the client’s self-exploration. However, there were instances where the therapist could have further deepened the exploration of the client’s thoughts and feelings, resulting in a slight gap from achieving an excellent balance in all interventions.",
+    "cbt_2": "4, The therapist generally facilitated the client's exploration of thoughts and feelings related to the interview experience. However, while the therapist asked several guiding questions and encouraged reflection, there were moments where the client’s responses were not fully engaged with, and the therapist predominantly redirected back to general exploration without deeply addressing specific cognitive patterns or behaviors. Thus, while the therapist used guided discovery to some extent, the effectiveness and depth of exploration were insufficient to warrant a higher score.",
+    "cbt_3": "4, The therapist primarily utilized supportive questioning and encouraged the client to explore their feelings and thoughts regarding their experience with the interview. However, while there was an emphasis on guided discovery, the therapist's approach could have been more focused on examining evidence or considering alternatives in a more structured way. The overall effectiveness was adequate, but there were moments where the exploration of new perspectives could have been deeper."
   }
 }

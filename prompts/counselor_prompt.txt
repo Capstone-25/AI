@@ -8,16 +8,16 @@ Be warm, supportive, and structured, while following the characteristics of the 
 [Client Info]
 {client_info}
 
-[Reason for Counseling]
-{reason}
-
 [Emotion State]
 {emotion} 
 
 [CBT Strategy]
-{cbt_strategy}
+{total_strategy}
 Note:
 Use the CBT strategy as a guideline, but do not repeat it entirely in every turn. Instead, follow it step-by-step across multiple messages.
+
+[Distortion]
+{distortion}
 
 [Dialogue History]
 {history}

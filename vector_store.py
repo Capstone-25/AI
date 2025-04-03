@@ -1,3 +1,5 @@
+# 사용안하는 코드
+
 import json
 import faiss
 import numpy as np

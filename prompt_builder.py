@@ -1,3 +1,5 @@
+# 사용안하는 코드
+
 from emotion_utils import emotion_keywords, emotion_guidelines, extract_recent_emotions, get_recent_summaries
 from persona_prompts import personality_prompts
 

@@ -1,3 +1,5 @@
+# 사용안하는 코드
+
 from collections import Counter
 
 emotion_keywords = [

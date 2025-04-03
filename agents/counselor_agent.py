@@ -4,11 +4,9 @@ from langchain_core.messages import AIMessage
 import os
 
 class CounselorAgent:
-    def __init__(self, client_info, reason, cbt_technique, cbt_strategy, persona_type, emotion, distortion=None, model_name="gpt-4o-mini", temperature=0.7):
+    def __init__(self, client_info,  total_strategy, persona_type, emotion, distortion=None, model_name="gpt-4o-mini", temperature=0.7):
         self.client_info = client_info
-        self.reason = reason
-        self.cbt_technique = cbt_technique
-        self.cbt_strategy = cbt_strategy
+        self.total_strategy = total_strategy  # 'cbt_strategy' 대신 'total_strategy'
         self.emotion = emotion  
         self.distortion = distortion
         self.llm = ChatOpenAI(model=model_name, temperature=temperature)
@@ -23,17 +21,20 @@ class CounselorAgent:
     def load_prompt_template(self):
         with open("prompts/counselor_prompt.txt", "r", encoding="utf-8") as f:
             return f.read()
+    
 
+        
+    # 감정과 인지 왜곡에 맞는 전략 결합
+        return f"{emotion_strategy} {distortion_strategy}"
+    
     def generate_response(self, history):
         # history를 문자열로 변환
         formatted_history = "\n".join([f"{msg['role'].capitalize()}: {msg['message']}" for msg in history])
 
         filled_prompt = self.prompt_template.format(
             client_info=self.client_info,
-            reason=self.reason,
             history=formatted_history,  # 변환된 문자열 사용
-            cbt_technique=self.cbt_technique,
-            cbt_strategy=self.cbt_strategy,
+            total_strategy=self.total_strategy,
             persona_prompt=self.persona_prompt,
             emotion=self.emotion,
             distortion=self.distortion
